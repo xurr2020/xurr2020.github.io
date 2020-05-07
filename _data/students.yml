@@ -1,0 +1,25 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Lihong Zhou（周俐宏）
+  info: Master student
+  email: 11930298@mail.sustech.edu.cn
+
+- name: Shijie Hu（胡世杰）
+  info: Bachelor student
+  email: 11710707@mail.sustech.edu.cn
+
+- name: Yi Liu（刘怡）
+  info: Bachelor student
+  email: 11810634@mail.sustech.edu.cn
+
+
+
+
