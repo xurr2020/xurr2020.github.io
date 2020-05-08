@@ -23,6 +23,11 @@ permalink: /publications/
 *Lian, X., Piao, S., Li, L., Li, Y., Huntingford, C., Ciais, P., Cescatti, A., Janssens, A., Penuelas, J., Buermann, W., Chen, A., Li, X., Myneni, R., Wang, X., Wang, Y., Yang, Y., <b>Zeng, Z.</b>, Zhang, Y. & McVicar T.*  
 [Science Advance](https://advances.sciencemag.org/content/6/1/eaax0255)
 
+4. Global Estimates of Reach‐Level Bankfull River Width Leveraging Big Data Geospatial Analysis  
+*Lin, P., Pan, M., Allen, G., Frasson, R. P. M., <b>Zeng, Z.</b>, Yamazaki, D. & Wood, E. F.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL086405)
+
+
 ### 2019
 
 1. A reversal in global terrestrial stilling and its implications for wind energy production  
