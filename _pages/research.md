@@ -13,3 +13,49 @@ I am an earth system scientist. I am interested in how climate determines vegeta
 Global climate change is a major challenge of our generations that determines the sustainable development of human society. Tropical forests and wetlands are important "stabilizers" for the Earth's climate system. However, global agriculture expansion is rapidly decreasing and degrading tropical forest and wetland ecosystems. It is likely caused by the fact that our demand for food and energy is dramatically increasing along with the population booming and the economic development, yet the land suitable for farming in the temperate regions has basically been converted into agricultural land; thus global agriculture has to expand from the temperate regions into the tropical regions (Searchinger et al., 2019; Song et al., 2018; Zeng et al., 2018a, b). This pattern of global land cover and land use change is a critical factor for the current and future climate change, via interactions among various layers of the climate system (IPCC, 2014). Climate change, in turn, can cause degradation of tropical ecosystems (forests and wetlands in particular). Degradations of tropical forests and wetlands may lead to a collapse of the Earth’s climate system. My research, with the support of Southern University of Science and Technology, will focus on the dynamics of tropical agriculture, forests, wetlands and climate in the context of global change.
 
 
+## Highlights
+
+(For a full list see [Publication](https://www.zhenzhongzeng.com/publications) or go to [Google Scholar](https://scholar.google.com/citations?user=GsM4YKQAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Zhenzhong_Zeng))
+
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+
+
+
+
