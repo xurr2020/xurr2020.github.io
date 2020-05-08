@@ -1,11 +1,13 @@
 - name: Zhenzhong Zeng（曾振中）
   photo: zeng_touxiang.png
-  info: Associate professor, started Oct 2019
+  info: Associate professor, started Sep 2019
   email: zengzz@sustech.edu.cn
-  number_educ: 3
+  number_educ: 5
   education1: B.S. Sun Yat-sen University
   education2: PhD Peking University
   education3: Postdoc Princeton University
+  education4: <a href="https://scholar.google.com/citations?user=GsM4YKQAAAAJ&hl=en/">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Zhenzhong_Zeng/">  Researchgate</a>
+  education5: <a href="GeneralPostdoc_2019_v01.pdf" download='' target="_blank">CV</a>
 
 - name: Dashan Wang（王大山）
   photo: dashan_touxiang.jpg
@@ -16,6 +18,16 @@
   photo: rongrong_touxiang.jpg
   info: Postdoc, started Apr 2020
   email: xurr@sustech.edu.cn
+
+- name: Yu Feng（冯禹）
+  photo: fengyu.jpg
+  info: Phd Student, started Sep 2018
+  email: fengyu272@163.com
+
+- name: He Chen（陈鹤）
+  photo: chenhe.jpg
+  info: Phd Student, started Sep 2018
+  email: 11849584@mail.sustech.edu.cn
 
 - name: Xinyue He（何心悦）
   photo: xinyue_touxiang.jpg
@@ -32,19 +44,39 @@
   info: Research Assistant, started Sep 2019
   email: wuj6@mail.sustech.edu.cn
 
-- name: Binbin Zeng（曾斌斌）
-  photo: binbin_touxiang.jpg
-  info: Research Assistant, started Oct 2019
-  email: zengbb@mail.sustech.edu.cn
-
 - name: Winxin Fan（范文新）
   photo: wenxin_touxiang.jpg
   info: Research Assistant, started Oct 2019
   email: fanwx@mail.sustech.edu.cn
 
+- name: Ziyu Lin（林子裕）
+  photo: ziyu.jpg
+  info: Master Student, started Sep 2018
+  email: linzy63@mail2.sysu.edu.cn
+
+- name: Lihong Zhou（周俐宏）
+  photo: lihong.jpg
+  info: Master Student, started Sep 2019
+  email: 11930298@mail.sustech.edu.cn
+
+- name: Binbin Zeng（曾斌斌）
+  photo: binbin_touxiang.jpg
+  info: Secretary, started Sep 2019
+  email: zengbb@mail.sustech.edu.cn
+
+- name: Shijie Hu（胡世杰）
+  photo: shijie.jpg
+  info: Undergraduate, started Sep 2017
+  email: 11710707@mail.sustech.edu.cn
+
+- name: Yi Liu（刘怡）
+  photo: liuyi.jpg
+  info: Undergraduate, started Sep 2018
+  email: 11810634@mail.sustech.edu.cn
+
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="http://www.zhenzhongzeng.com/vacancies">openings</a> for more info
   email: zengzz@sustech.edu.cn
   number_educ: 0
   education1:
