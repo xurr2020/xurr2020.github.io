@@ -18,6 +18,6 @@ Welcome to the home page of the Earth System and Global Change Group in the [Sch
   <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" style="width: 650px">
 </figure>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new Postdocs, PhD students, Master students, and Undergraduate to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 We are grateful for funding from Southern University of Science and Technology.
