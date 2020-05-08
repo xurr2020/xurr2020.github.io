@@ -68,7 +68,7 @@ permalink: /vacancies
 
 7.  依据自身符合的条件情况，在站或出站留深博士后可申请 "深圳市孔雀计划C类人才"或者"深圳市后备级人才"，享受5年160万的奖励津贴（免税）（以深圳市最新相关人才申报要求为准）。
 
-有意应聘者，请将下述材料发至[曾斌斌](zengbb@mail.sustech.edu.cn)（zengbb@mail.sustech.edu.cn），以“姓名+申请岗位”为标题：
+有意应聘者，请将下述材料发至<a href="mailto:zengbb@mail.sustech.edu.cn">曾斌斌</a>（zengbb@mail.sustech.edu.cn），以“姓名+申请岗位”为标题：
 
 1.	个人简历（包含完整的学术论文列表）；
 
@@ -106,7 +106,7 @@ permalink: /vacancies
 
 2.	年终根据日常工作成绩发放1-5万元绩效奖金。
 
-有意应聘者，请将下述材料发至[曾斌斌](zengbb@mail.sustech.edu.cn)（zengbb@mail.sustech.edu.cn），以“姓名+申请岗位”为标题：
+有意应聘者，请将下述材料发至<a href="mailto:zengbb@mail.sustech.edu.cn">曾斌斌</a>（zengbb@mail.sustech.edu.cn），以“姓名+申请岗位”为标题：
 
 1.	个人简历（包含完整的学术论文列表）；
 
@@ -140,7 +140,7 @@ permalink: /vacancies
 
 1. 课题组依据情况，提供生活补助，具体面议。
 
-欢迎感兴趣的学生来校交流访问。具体联系[曾斌斌](zengbb@mail.sustech.edu.cn)（zengbb@mail.sustech.edu.cn）。
+欢迎感兴趣的学生来校交流访问。具体联系<a href="mailto:zengbb@mail.sustech.edu.cn">曾斌斌</a>（zengbb@mail.sustech.edu.cn）。
 
 
 ## 南科大研究生招生简章
