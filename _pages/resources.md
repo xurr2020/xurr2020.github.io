@@ -1,9 +1,9 @@
 ---
 title: "Earth System & Global Change Lab - Resources"
-layout: gridlay
+layout: textlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false
-permalink: /Resources/
+permalink: /resources/
 ---
 
 
