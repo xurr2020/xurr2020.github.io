@@ -1,0 +1,63 @@
+I"<h1 id="resources">Resources</h1>
+
+<h2 id="dataset">Dataset</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/SFnews.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>This rate of urban expansion is four times greater than previous reputable estimates from worldwide individual cities, suggesting an unprecedented rate of global urbanization. It is notably faster than that of population growth, indicating that the urban land area already exceeds what is needed to sustain population growth.</p>
+      <p><em>Xiaoping Liu, Yinghuai Huang, Xiaocong Xu, Xuecao Li, Xia Li* , Philippe Ciais, Peirong Lin, Kai Gong, Alan D. Ziegler, Anping Chen, Peng Gong, Jun Chen, Guohua Hu, Yimin Chen, Shaojian Wang, Qiusheng Wu, Kangning Huang, Lyndon Estes, <b>Zhenzhong Zeng* </b></em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41893-020-0521-x">Nature Sustainability (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A reversal in global terrestrial stilling and its implications for wind energy production</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We first found that the stilling reversed around 2010 and that global wind speeds over land have recovered. The strengthening has increased potential wind energy by 17 ± 2% for 2010 to 2017, boosting the US wind power capacity factor by ~2.5% and explains half the increase in the US wind capacity factor since 2010.</p>
+      <p><em><b>Zhenzhong Zeng* </b>, Alan D. Ziegler, Timothy Searchinger, Long Yang, Anping Chen, Kunlu Ju, Shilong Piao, Laurent Z. X. Li, Philippe Ciais, Deliang Chen, Junguo Liu, Cesar Azorin-Molina, Adrian Chappell, David Medvigy, Eric F. Wood</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41558-019-0622-6">Nature Climate Change (2019)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Highland cropland expansion and forest loss in Southeast Asia in the twenty-first century</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/PbSpub.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We investigate patterns of forest change and cropland expansion in the region for the twenty-first century, based on multiple streams of state-of-the-art satellite imagery and find large increases in cultivated areas that have not been documented or projected. Many of these cultivated areas have evolved from forests that vary in health and status, including primary and protected forests, or from recovering lands that were on a trajectory to become secondary forests.</p>
+      <p><em><b>Zhenzhong Zeng* </b>, Lyndon Estes, Alan D. Ziegler, Anping Chen, Timothy Searchinger, Fangyuan Hua, Kaiyu Guan, Attachai Jintrawet, Eric F. Wood</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41561-018-0166-9">Nature Geoscience (2018)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Climate mitigation from vegetation biophysical feedbacks during the past three decades</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/1588779288.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We isolate the fingerprint of increasing LAI on surface air temperature using a coupled land-atmosphere global climate model prescribed with satellite LAI observations. We find that the global greening has slowed down the rise in global land-surface air temperature by 0.09 ± 0.02 °C since 1982. This net cooling effect is the sum of cooling from increased evapotranspiration (70%), changed atmospheric circulation (44%), decreased shortwave transmissivity (21%), and warming from increased longwave air emissivity (-29%) and decreased albedo (-6%).</p>
+      <p><em><b>Zhenzhong Zeng</b>, Shilong Piao* , Laurent Z. X. Li, Liming Zhou, Philippe Ciais, Tao Wang, Yue Li, Xu Lian, Eric F. Wood, Pierre Friedlingstein, Jiafu Mao, Lyndon D. Estes, Ranga B. Myneni, Shushi Peng, Xiaoying Shi, Sonia I. Seneviratne, Yingping Wang</em></p>
+      <p><strong><a href="https://www.nature.com/articles/nclimate3299">Nature Climate Change (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET
