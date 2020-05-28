@@ -12,7 +12,7 @@ permalink: /publications/
 ### 2020
 
 1. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015  
-*Xiaoping Liu, Yinghuai Huang, Xiaocong Xu, Xuecao Li, Xia Li\* , Philippe Ciais, Peirong Lin, Kai Gong, Alan D. Ziegler, Anping Chen, Peng Gong, Jun Chen, Guohua Hu, Yimin Chen, Shaojian Wang, Qiusheng Wu, Kangning Huang, Lyndon Estes, <b>Zeng, Z.\* </b>*  
+*Liu, X., Huang, Y., Xu, X., Li, X., Li, X.\*, Ciais, P., Lin, P., Gong, K., Ziegler, A. D., Chen, A., Gong, P., Chen, J., Hu, G., Chen, Y., Wang, S., Wu, Q., Huang, K., Estes, L. & <b>Zeng, Z.\*</b>*    
 [Nature Sustainability](https://www.nature.com/articles/s41893-020-0521-x)
 
 2. Riverine flooding and landfalling tropical cyclones over China  
@@ -31,7 +31,7 @@ permalink: /publications/
 ### 2019
 
 1. A reversal in global terrestrial stilling and its implications for wind energy production  
-*<b>Zeng, Z.\* </b>, Alan D. Ziegler, Timothy Searchinger, Long Yang, Anping Chen, Kunlu Ju, Shilong Piao, Laurent Z. X. Li, Philippe Ciais, Deliang Chen, Junguo Liu, Cesar Azorin-Molina, Adrian Chappell, David Medvigy, Eric F. Wood*  
+*<b>Zeng, Z.\*</b>, Ziegler, A. D., Searchinger, T., Yang, L., Chen, A., Ju, K., Piao, S., Li, L., Ciais, P., Chen, D., Liu, J., Azorin-Molina, C., Chappell, A., Medvigy, D. & Wood, E. F.*  
 [Nature Climate Change](https://www.nature.com/articles/s41558-019-0622-6)
 
 2. Improving representation of deforestation effects on evapotranspiration in the E3SM land model  
@@ -45,7 +45,7 @@ permalink: /publications/
 ### 2018
 
 1. Highland cropland expansion and forest loss in Southeast Asia in the twenty-first century  
-*<b>Zeng, Z.\* </b>, Lyndon Estes, Alan D. Ziegler, Anping Chen, Timothy Searchinger, Fangyuan Hua, Kaiyu Guan, Attachai Jintrawet, Eric F. Wood*  
+*<b>Zeng, Z.\*</b>, Estes, L., Ziegler, A. D., Chen, A., Searchinger, T., Hua, F., Guan, K., Jintrawet, A. & Wood, E. F.*  
 [Nature Geoscience](https://www.nature.com/articles/s41561-018-0166-9)
 
 2. Accelerating forest loss in Southeast Asian Massif in the 21st century: a case study in Nan Province  
@@ -87,7 +87,7 @@ permalink: /publications/
 ### 2017
 
 1.  Climate mitigation from vegetation biophysical feedbacks during the past three decades  
-*<b>Zeng, Z.</b>, Shilong Piao\* , Laurent Z. X. Li, Liming Zhou, Philippe Ciais, Tao Wang, Yue Li, Xu Lian, Eric F. Wood, Pierre Friedlingstein, Jiafu Mao, Lyndon D. Estes, Ranga B. Myneni, Shushi Peng, Xiaoying Shi, Sonia I. Seneviratne, Yingping Wang*  
+*<b>Zeng, Z.</b>, Piao, S., Li, L., Zhou, L., Ciais, P., Wang, T., Li, Y., Lian, X., Wood, E. F., Friedlingstein, P., Mao, J., Estes, L., Myneni, R., Peng, S., Shi, X., Seneviratne, S. & Wang, Y.*  
 [Nature Climate Change](https://www.nature.com/articles/nclimate3299)
 
 2. Regional patterns of future runoff changes from Earth system models constrained by observation  
