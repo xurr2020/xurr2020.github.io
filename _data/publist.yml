@@ -42,9 +42,10 @@
 - title: "Global evapotranspiration (ET) through coupling a water balance (WB) model with a machine-learning algorithm (the model tree ensemble, MTE) "
   image: evaporation.png
   description:  A satellite-based water balance method is developed to model global evapotranspiration (ET) through coupling a water balance (WB) model with a machine-learning algorithm (the model tree ensemble, MTE) (hereafter WB-MTE). The WB-MTE algorithm was firstly trained by combining monthly WB-estimated basin ET with the potential drivers (e.g., radiation, temperature, precipitation, wind speed, and vegetation index) across 95 large river basins (5824 basin-months) and then applied to establish global monthly ET maps at a spatial resolution of 0.5° from 1982 to 2009.
+
   
-  link:
+  link: 
     url: https://1drv.ms/u/s!AiRN_e2BaFsYhG_qt8e5R44b0dFy?e=j4knQR
     display:  Download
   highlight: 2
-  news2:
+  news2: 如果您是中国大陆用户，可通过<a href="https://pan.baidu.com/s/1hBVOcq5dlaCJ3w__VC87zQ" target="_blank">百度网盘</a>下载，提取码：w3sh
