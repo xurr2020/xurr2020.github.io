@@ -9,6 +9,12 @@ permalink: /publications/
 
 # Publications
 
+### 2021
+
+1. Reducing Solar Radiation Forcing Uncertainty and Its Impact on Surface Energy and Water Fluxes  
+*Peng, L., Wei, Z., <b>Zeng, Z.</b>, Lin, P., Wood, E. F., Sheffild, J.,*  
+[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0052.1/JHM-D-20-0052.1.xml)
+
 ### 2020
 
 1. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015  
@@ -26,6 +32,35 @@ permalink: /publications/
 4. Global Estimates of Reach‐Level Bankfull River Width Leveraging Big Data Geospatial Analysis  
 *Lin, P., Pan, M., Allen, G., Frasson, R. P. M., <b>Zeng, Z.</b>, Yamazaki, D. & Wood, E. F.*  
 [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL086405)
+
+5. The Reliability of Global Remote Sensing Evapotranspiration Products over Amazon  
+*<b>Wu, J.</b>, Lakshmi, V., <b>Wang, D.</b>, Lin, P., Pan. M., Cai, X., Wood, E. F., & <b>Zeng, Z.\*</b>*   
+[Remote Sensing](https://www.mdpi.com/2072-4292/12/14/2211)
+
+6. Flood Risks in Sinking Delta Cities: Time for a Reevaluation?  
+*Yin, J., Jonkman, S., Lin, N., Yu, D.,Aerts, J., Wilby, R., Pan, M., Wood, E. F., Bricker, J., Ke, Q., <b>Zeng, Z.</b>, Zhao, Q., Ge, J., &Wang, J.*  
+[Earth's Future](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001614)
+
+7. Large Uncertainty on Forest Area Change in the Early 21st Century among Widely Used Global Land Cover Datasets  
+*<b>Chen, H.</b>, <b>Zeng, Z.\*</b>, Wu, J., Peng, L., Lakshmi, V., Yang, H., & Liu, J.*  
+[Remote Sensing](https://www.mdpi.com/2072-4292/12/21/3502)
+
+8. Evaluation of Global Reanalysis Land Surface Wind Speed Trends to Support Wind Energy Development Using In Situ Observations  
+*<b>Fan, X.</b>, <b>Liu, Y.</b>, Chappell, A., Dong, L., <b>Xu, R.</b>, Ekström, M., Fu, T., & <b>Zeng, Z.\*</b>*  
+[Journal of Applied Meteorology and Climatology](https://journals.ametsoc.org/view/journals/apme/60/1/jamc-d-20-0037.1.xml)
+
+9. Intercomparison of ten ISI-MIP models in simulating discharges along the Lancang-Mekong River basin  
+*<b>Chen, H.</b>, Liu, J.\*, Mao, Q., Wang, Z., <b>Zeng, Z.</b>, Chen, A., Wang, K., & Chen, D.*  
+[Science of The Total Environment](https://www.sciencedirect.com/science/article/pii/S0048969720380256?via%3Dihub)
+
+10. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
+*<b>Wang, D.</b>, Wang, X., Liu, L., Wang, D.,& <b>Zeng. Z</b>*  
+[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0063.1/JHM-D-20-0063.1.xml)
+
+11. Deforestation-induced warming over tropical mountain regions regulated by elevation  
+*<b>Zeng, Z.</b>, <b>Wang, D.</b>, Yang, L., <b>Wu, J.</b>, Ziegler, A., Liu, M., Ciais, P., Seachinger, T., Yang, Z., Chen, D., Chen, A., Li, L., Piao, S., Taylor, D., Cai, X., Pan, M., Peng, L., Lin, P., Gower, D., <b>Feng, Y.</b>, Zheng, C., Guan, K., Lian, X., Wang, T., Wang, L., Jeong, S., Wei, Z., Sheffield, J., Caylor, K., & Wood, E.F.*  
+[Nature Geoscience](https://www.nature.com/articles/s41561-020-00666-0)
+ 
 
 
 ### 2019
