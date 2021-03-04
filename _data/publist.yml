@@ -1,6 +1,16 @@
+- title: "Deforestation-induced warming over tropical mountain regions regulated by elevation"
+  image: SFnews2.png
+  description: The warming from mountain deforestation depends on elevation, through the intertwined and opposing effects of increased albedo causing cooling and decreased evapotranspiration causing warming. As the elevation increases, the albedo effect increases in importance and the warming effect decreases,. As most new croplands are encroaching lands at low to moderate elevations, deforestation produces higher warming from suppressed evapotranspiration
+  authors: <b>Zhenzhong Zeng* </b>, Dashan Wang, Long Yang, Jie Wu, Alan D. Ziegler, Maofeng Liu, Philippe Ciais, Timothy D. Searchinger, Zong-Liang Yang, Deliang Chen, Anping Chen, Laurent Z. X. Li, Shilong Piao, David Taylor, Xitian Cai, Ming Pan, Liqing Peng, Peirong Lin, Drew Gower, Yu Feng, Chunmiao Zheng, Kaiyu Guan, Xu Lian, Tao Wang, Lang Wang, Su-Jong Jeong, Zhongwang Wei, Justin Sheffield, Kelly Caylor & Eric F. Wood 
+  link:
+    url: https://www.nature.com/articles/s41561-020-00666-0
+    display:  Nature Geoscience (2020)
+  highlight: 1
+  news2:
+
 - title: "High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015"
   image: SFnews.png
-  description: This rate of urban expansion is four times greater than previous reputable estimates from worldwide individual cities, suggesting an unprecedented rate of global urbanization. It is notably faster than that of population growth, indicating that the urban land area already exceeds what is needed to sustain population growth.
+  description: This rate of urban expansion is four times greater than previous reputable estimates from worldwide individual cities, suggesting an unprecedented rate of global urbanization. It is notably faster than that of population growth, indicating that the urban land area already exceeds what is needed to sustain population growth. Looking ahead, using these maps in conjunction with integrated assessment models can facilitate greater understanding of the complex environmental impacts of urbanization and help urban planners avoid natural hazards; for example, by limiting new development in flood risk zones.
   authors: Xiaoping Liu, Yinghuai Huang, Xiaocong Xu, Xuecao Li, Xia Li* , Philippe Ciais, Peirong Lin, Kai Gong, Alan D. Ziegler, Anping Chen, Peng Gong, Jun Chen, Guohua Hu, Yimin Chen, Shaojian Wang, Qiusheng Wu, Kangning Huang, Lyndon Estes, <b>Zhenzhong Zeng* </b>
   link:
     url: https://www.nature.com/articles/s41893-020-0521-x
