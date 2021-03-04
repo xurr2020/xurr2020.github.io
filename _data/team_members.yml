@@ -41,28 +41,33 @@
 
 - name: Junyu Zou（邹俊宇）
   photo: junyu_touxiang.jpg
-  info: Research Assistant, started Sep 2019
+  info: Phd Student, started Sep 2020
   email: wuj6@mail.sustech.edu.cn
-
-- name: Winxin Fan（范文新）
-  photo: wenxin_touxiang.jpg
-  info: Research Assistant, started Oct 2019
-  email: fanwx@mail.sustech.edu.cn
 
 - name: Xin Jiang（江鑫）
   photo: jiangxin.jpg
-  info: Research Assistant, started Jul 2020
+  info: Phd Student, started Sep 2021
   email: jiangxiaobaix@outlook.com
 
-- name: Ziyu Lin（林子裕）
-  photo: ziyu.jpg
+- name: Liu Yang（刘洋）
+  photo: Liuyang.jpg
   info: Visiting Master Student, started Sep 2018
-  email: linzy63@mail2.sysu.edu.cn
+  email: liuyang18f@mails.ucas.edu.cn
 
 - name: Lihong Zhou（周俐宏）
   photo: lihong.jpg
   info: Master Student, started Sep 2019
   email: 11930298@mail.sustech.edu.cn
+
+- name: Shijing Liang（梁时婧）
+  photo: liangshijing1.jpg
+  info: Master Student, started Sep 2021
+  email: 111712638@mail.sustech.edu.cn
+
+- name: Yubin Jin（金宇斌）
+  photo: yubin.jpg
+  info: Master Student, started Sep 2021
+  email: 1817202741@qq.com
 
 - name: Binbin Zeng（曾斌斌）
   photo: binbin_touxiang.jpg
@@ -74,15 +79,15 @@
   info: Undergraduate, started Sep 2017
   email: 11710707@mail.sustech.edu.cn
 
-- name: Shijing Liang（梁时婧）
-  photo: liangshijing1.jpg
-  info: Undergraduate, started Sep 2017
-  email: 111712638@mail.sustech.edu.cn
-
 - name: Yi Liu（刘怡）
   photo: liuyi.jpg
   info: Undergraduate, started Sep 2018
   email: 11810634@mail.sustech.edu.cn
+
+- name: Xiaowen Huang（黄筱雯）
+  photo: huangxiaowen.jpg
+  info: Undergraduate, started Sep 2018
+  email: 11810536@mail.sustech.edu.cn
 
 - name: "This could be you !"
   photo: rock.jpg
