@@ -74,11 +74,10 @@ permalink: /team/
 
 
 
-## Former visitors, BSc/ MSc students
-<div class="row">
+## Former members, BSc/ MSc students
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>Members</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
@@ -97,6 +96,9 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
+<div class="row">
+
+
 
 </div>
 
