@@ -15,6 +15,28 @@ permalink: /publications/
 *Peng, L., Wei, Z., <b>Zeng, Z.</b>, Lin, P., Wood, E. F., Sheffild, J.,*  
 [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0052.1/JHM-D-20-0052.1.xml)
 
+2. Rapid and large-scale mapping of flood inundation via integrating spaceborne synthetic aperture radar imagery with unsupervised deep learning  
+*<b>Jiang X.</b>, <b>Liang S.</b>, <b>He X.</b>, Ziegler A. D., Lin P., Pan M., <b>Wang D.</b>, <b>Zou J.</b>, Hao D., Mao G., Zeng Y., Yin J., Feng L., Miao C., Wood E. F., <b>Zeng Z.\*</b>*  
+[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0924271621001520?via%3Dihub)
+
+3. Two-Tier Synergic Governance of Greenhouse Gas Emissions and Air Pollution in China’s Megacity, Shenzhen: Impact Evaluation and Policy Implication  
+*Jiang J., Ye B.\*, Shao S., Zhou N., Wang D., <b>Zeng, Z.</b>, Liu J.*  
+[Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c06952)
+
+4. Role of Groundwater in Sustaining Northern Himalayan Rivers  
+*Yao Y., Zheng C., Andrews C. B., Scanlon B. R., Kuang X.,  <b>Zeng, Z.</b>, Jeong S., Lancia M., Wu Y., Li G.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092354)
+
+5. Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer  
+*Li Y., Fu T.\*, Yu J.\*, Feng X., Zhang L., Chen J., Boreddy S., Kawamura K., Fu P., Yang X., Zhu L., <b>Zeng, Z.</b>*  
+[Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c07313)
+
+6. Recent leveling off of vegetation greenness and primary production reveals the increasing soil water limitations on the greening Earth  
+*Feng X., Fu B\*., Zhang Y., Pan N., <b>Zeng, Z.</b>., Tian H., Lyu Y., Chen Y., Ciais P., Wang Y., Zhang L., Cheng L., Maestre F., Martinez M., Sardans J., Penuelas J.,*  
+[Science Bulletin](https://linkinghub.elsevier.com/retrieve/pii/S209592732100164X)
+
+
+
 ### 2020
 
 1. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015  
