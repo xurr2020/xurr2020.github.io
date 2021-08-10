@@ -1,4 +1,4 @@
-- name: Zhenzhong Zeng（曾振中）
+﻿- name: Zhenzhong Zeng（曾振中）
   photo: zeng_touxiang.png
   info: Associate professor, started Sep 2019
   email: zengzz@sustech.edu.cn
@@ -88,6 +88,11 @@
   photo: huangxiaowen.jpg
   info: Undergraduate, started Sep 2018
   email: 11810536@mail.sustech.edu.cn
+
+- name: Xiaowen Huang（赵雅楠）
+  photo: zhaoyanan.jpg
+  info: Undergraduate, started Sep 2020
+  email: 12010842@mail.sustech.edu.cn
 
 - name: "This could be you !"
   photo: rock.jpg
