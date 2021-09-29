@@ -11,33 +11,66 @@ permalink: /publications/
 
 ### 2021
 
-1. Upward expansion and acceleration of forest clearance in the mountains of Southeast Asia  
-*Feng, Y., Ziegler, AD., Elsen, PR., Liu, Y., He, XY., Spracklen, DV., Holden, J., Jiang, X., Zheng, CM.,  <b>Zeng Z.\*</b>*  
-[Nature Sustainability](https://www.nature.com/articles/s41893-021-00738-y)
+1. The critical effect of subgrid‐scale scheme on simulating the climate impacts of deforestation  
+*Dashan Wang; Jie Wu; Maoyi Huang; Laurent ZX Li; Dagang Wang; Ting Lin; Li Dong; Qi Li; Long Yang; <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035133)
 
-2. Reducing Solar Radiation Forcing Uncertainty and Its Impact on Surface Energy and Water Fluxes  
-*Peng, L., Wei, Z., <b>Zeng, Z.</b>, Lin, P., Wood, E. F., Sheffild, J.,*  
-[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0052.1/JHM-D-20-0052.1.xml)
+2. A continuous decline of global seasonal wind speed range over land since 1980  
+*Lihong Zhou; <b>Zhenzhong Zeng\*</b>; Cesar Azorin-Molina; Yi Liu; Jie Wu; Dashan Wang; Dan Li; Alan D Ziegler; Li Dong.*  
+[Journal of Climate](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0112.1/JCLI-D-21-0112.1.xml)
 
-3. Rapid and large-scale mapping of flood inundation via integrating spaceborne synthetic aperture radar imagery with unsupervised deep learning  
-*<b>Jiang X.</b>, <b>Liang S.</b>, <b>He X.</b>, Ziegler A. D., Lin P., Pan M., <b>Wang D.</b>, <b>Zou J.</b>, Hao D., Mao G., Zeng Y., Yin J., Feng L., Miao C., Wood E. F., <b>Zeng Z.\*</b>*  
+3. Effects of design parameters, microbial community and nitrogen removal on the field-scale multi-pond constructed wetlands  
+*Dan Li; Zhaosheng Chu \*; <b>Zhenzhong Zeng</b>; Matthew Sima; Minsheng Huang; Binghui Zheng.*  
+ [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0052.1/JHM-D-20-0052.1.xml)
+
+4. Global Reach-level 3-hourly River Flood Reanalysis (1980-2019)  
+*Yuan Yang; Ming Pan\*; Peirong Lin; Hylke E. Beck; <b>Zhenzhong Zeng</b>; Dai Yamazaki.*    
+[Bulletin of the American Meteorological Society](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0057.1/BAMS-D-20-0057.1.xml)  
+
+5. Upward expansion and acceleration of forest clearance in the mountains of Southeast Asia  
+*Yu Feng; Alan D. Ziegler; Paul R. Elsen; Yang Liu; Xinyue He; Dominick V. Spracklen; Joseph Holden; Xin Jiang; Chunmiao Zheng  and <b>Zhenzhong Zeng\*</b>.*  
+[Nature Sustainability](https://www.nature.com/articles/s41893-021-00738-y)  
+
+6. Rapid and large-scale mapping of flood inundation via integrating spaceborne synthetic aperture radar imagery with unsupervised deep learning  
+*Xin Jiang; Shijing Liang; Xinyue He; Alan D. Ziegler; Peirong Lin; Ming Pan; Dashan Wang; Junyu Zou; Dalei Hao; Ganquan Mao; Yelu Zeng; Jie Yin; Lian Feng; Chiyuan Miao; Eric F. Wood; <b>Zhenzhong Zeng\*</b>.*  
 [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0924271621001520?via%3Dihub)
 
-4. Two-Tier Synergic Governance of Greenhouse Gas Emissions and Air Pollution in China’s Megacity, Shenzhen: Impact Evaluation and Policy Implication  
-*Jiang J., Ye B.\*, Shao S., Zhou N., Wang D., <b>Zeng, Z.</b>, Liu J.*  
-[Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c06952)
+7. Role of Groundwater in Sustaining Northern Himalayan Rivers  
+*Yingying Yao; Chunmiao Zheng\*; Charles B. Andrews; Bridget R. Scanlon; Xingxing Kuang; <b>Zhenzhong Zeng</b>; Su-Jong Jeong; Michele Lancia; Yiping Wu; and Guoshuai Li.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092354)  
 
-5. Role of Groundwater in Sustaining Northern Himalayan Rivers  
-*Yao Y., Zheng C., Andrews C. B., Scanlon B. R., Kuang X.,  <b>Zeng, Z.</b>, Jeong S., Lancia M., Wu Y., Li G.*  
-[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092354)
+8. Aerosol presence reduces diurnal temperature change: An interval when the COVID-19 pandemic reduced aerosols revealed the climate effect  
+*Shijie Hu; Dashan Wang; Jie Wu; Lihong Zhou; Xu Feng; Tzung-May Fu; Xin Yang; Alan D; Ziegler and <b>Zhenzhong Zeng*</b>.*  
+[Environmental Science: Atmospheres](https://pubs.rsc.org/en/content/articlehtml/2021/ea/d1ea00021g)  
 
-6. Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer  
-*Li Y., Fu T.\*, Yu J.\*, Feng X., Zhang L., Chen J., Boreddy S., Kawamura K., Fu P., Yang X., Zhu L., <b>Zeng, Z.</b>*  
+9. Recent leveling off of vegetation greenness and primary production reveals the increasing soil water limitations on the greening Earth  
+*Xiaoming Feng; Bojie Fu\*; Yuan Zhang; Naiqing Pan; <b>Zhenzhong Zeng</b>; Hanqin Tian; Yihe Lyu; Yongzhe Chen; Philippe Ciais; Yingping Wang; Lu Zhang; Lei Cheng; Fernando T. Maestre; Marcos Fernández-Martínez; Jordi Sardans; Josep Peñuelas. *  
+[Science Bulletin](https://linkinghub.elsevier.com/retrieve/pii/S209592732100164X)  
+
+10. Two-Tier Synergic Governance of Greenhouse Gas Emissions and Air Pollution in China’s Megacity, Shenzhen: Impact Evaluation and Policy Implication  
+*Jingjing Jiang; Bin Ye\*; Shuai Shao; Nan Zhou; Dashan Wang; <b>Zhenzhong Zeng</b>; Junguo Liu.*  
+ [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c06952)
+
+11. Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer  
+*Yumin Li; Tzung-May Fu\*; Jianyu Zhen\*; Xu Feng; Lijuan Zhang; Jing Chen; Suresh Kumar Reddy Boreddy; Kimitaka Kawamura; Pingqing Fu; Xin Yang; Lei Zhu,<b>Zhenzhong Zeng</b>.*  
 [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c07313)
 
-7. Recent leveling off of vegetation greenness and primary production reveals the increasing soil water limitations on the greening Earth  
-*Feng X., Fu B\*., Zhang Y., Pan N., <b>Zeng, Z.</b>., Tian H., Lyu Y., Chen Y., Ciais P., Wang Y., Zhang L., Cheng L., Maestre F., Martinez M., Sardans J., Penuelas J.,*  
-[Science Bulletin](https://linkinghub.elsevier.com/retrieve/pii/S209592732100164X)
+12. Intercomparison of ten ISI-MIP models in simulating discharges along the Lancang-Mekong River basin  
+*He Chen; Junguo Liu\*; Ganquan Mao; Zifeng Wang; <b>Zhenzhong Zeng</b>; Aifang Chen; Kai Wang; Deliang Chen.*  
+[The Science of the total environment](https://www.sciencedirect.com/science/article/abs/pii/S0048969720380256?via%3Dihub)  
+
+13.  Reducing solar radiation forcing uncertainty and its impact on surface energy and water fluxes  
+*Liqing Peng ; Zhongwang Wei ; <b>Zhenzhong Zeng</b>; Peirong Lin; Eric F Wood; Justin Sheffield.*  
+[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/4/JHM-D-20-0052.1.xml)  
+
+14. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
+*Dashan Wang; Xianwei Wang; Lin Liu; Dagang Wang; <b>Zhenzhong Zeng\*</b>.*    
+[Ournal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0063.1.xml)  
+
+15. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
+*Wenxin Fan; Yi Liu; Adrian Chappell; Li Dong; Rongrong Xu; Marie Ekstrom; TZung-May Fu; <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Applied Meteorology and Climatology](https://journals.ametsoc.org/view/journals/apme/60/1/jamc-d-20-0037.1.xml)  
+
 
 
 
@@ -79,11 +112,7 @@ permalink: /publications/
 *<b>Chen, H.</b>, Liu, J.\*, Mao, Q., Wang, Z., <b>Zeng, Z.</b>, Chen, A., Wang, K., & Chen, D.*  
 [Science of The Total Environment](https://www.sciencedirect.com/science/article/pii/S0048969720380256?via%3Dihub)
 
-10. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
-*<b>Wang, D.</b>, Wang, X., Liu, L., Wang, D.,& <b>Zeng. Z</b>*  
-[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0063.1/JHM-D-20-0063.1.xml)
-
-11. Deforestation-induced warming over tropical mountain regions regulated by elevation  
+10. Deforestation-induced warming over tropical mountain regions regulated by elevation  
 *<b>Zeng, Z.</b>, <b>Wang, D.</b>, Yang, L., <b>Wu, J.</b>, Ziegler, A., Liu, M., Ciais, P., Seachinger, T., Yang, Z., Chen, D., Chen, A., Li, L., Piao, S., Taylor, D., Cai, X., Pan, M., Peng, L., Lin, P., Gower, D., <b>Feng, Y.</b>, Zheng, C., Guan, K., Lian, X., Wang, T., Wang, L., Jeong, S., Wei, Z., Sheffield, J., Caylor, K., & Wood, E.F.*  
 [Nature Geoscience](https://www.nature.com/articles/s41561-020-00666-0)
  
