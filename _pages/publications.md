@@ -11,7 +11,15 @@ permalink: /publications/
 
 ### 2021
 
-1. The critical effect of subgrid‐scale scheme on simulating the climate impacts of deforestation  
+1. Weaknesses in dust emission modelling hidden by tuning to dust in the atmosphere  
+*Adrian Chappell; Nicholas Webb; Mark Hennen; Charles Zender; Philippe Ciais; Kerstin Schepanski; Brandon Edwards; Nancy Ziegler; Sandra Jones; Yves Balkanski; Daniel Tong; John Leys; Stephan Heidenreich; Robert Hynes; David Fuchs; <b>Zhenzhong Zeng</b>; Marie Ekström; Matthew Baddock; Jeffrey Lee; Tarek Kandakji.*  
+[Geoscientific Model Development Discussions](https://gmd.copernicus.org/preprints/gmd-2021-337/)
+
+2. High‐Resolution Mapping of Ice Cover Changes in Over 33,000 Lakes Across the North Temperate Zone  
+*Xinchi Wang; Lian Feng\*; Luke Gibson; Wei Qi; Junguo Liu; Yi Zheng; Jing Tang; <b>Zhenzhong Zeng</b>; Chunmiao Zheng.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL095614)
+
+3. The critical effect of subgrid‐scale scheme on simulating the climate impacts of deforestation  
 *Dashan Wang; Jie Wu; Maoyi Huang; Laurent ZX Li; Dagang Wang; Ting Lin; Li Dong; Qi Li; Long Yang; <b>Zhenzhong Zeng\*</b>.*  
 [Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035133)
 
@@ -65,7 +73,7 @@ permalink: /publications/
 
 14. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
 *Dashan Wang; Xianwei Wang; Lin Liu; Dagang Wang; <b>Zhenzhong Zeng\*</b>.*    
-[Ournal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0063.1.xml)  
+[Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0063.1.xml)  
 
 15. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
 *Wenxin Fan; Yi Liu; Adrian Chappell; Li Dong; Rongrong Xu; Marie Ekstrom; TZung-May Fu; <b>Zhenzhong Zeng\*</b>.*  
