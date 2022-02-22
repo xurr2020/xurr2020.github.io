@@ -59,3 +59,12 @@
     display:  Download
   highlight: 2
   news2: 如果您是中国大陆用户，可通过<a href="https://pan.baidu.com/s/1hBVOcq5dlaCJ3w__VC87zQ" target="_blank">百度网盘</a>下载，提取码：w3sh
+
+
+- title: "Multi-greenhouse gas assessments show near surface water table provides maximal wetland climate change mitigation"
+  image: wetland_emissions.png
+  description:  Carbon and nitrogen losses from degraded wetlands, and methane emissions from high-water level wetlands, are both significant sources of greenhouse gas (GHG) emissions. Net wetland GHG exchange and its dependency on wetness across temperature regimes, however, remain poorly understood. From a newly constructed global-scale, in-situ database of GHGs (including CO2, CH4 and N2O) net exchanges, we show diverse hydrology-influenced emission patterns in CO2, CH4 and N2O across thermal regimes, and the net exchange rate of total GHGs shows a parabolic relationship with wetland water table.
+  link: 
+    url: https://github.com/XiaoBai0417/Multi-greenhouse-gas-assessments
+    display: Downdload
+  highlight: 2
