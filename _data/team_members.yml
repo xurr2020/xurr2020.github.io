@@ -11,8 +11,12 @@
 
 - name: Dashan Wang（王大山）
   photo: dashan_touxiang.jpg
-  info: Postdoc, started Jan 2020
+  info: Research Assistant Professor
   email: wangds6@sustech.edu.cn
+  number_educ: 3
+  education1: B.S. Sun Yat-sen University
+  education2: PhD Sun Yat-sen University
+  education3: Postdoc Southern University of Science and Technology(started Jan 2020)
 
 - name: Rongrong Xu（徐荣嵘）
   photo: rongrong_touxiang.jpg
