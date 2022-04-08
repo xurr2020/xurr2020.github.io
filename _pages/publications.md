@@ -9,6 +9,32 @@ permalink: /publications/
 
 # Publications
 
+### 2022
+
+1. Influence of urbanization on hourly extreme precipitation over China  
+*Xiaowen Huang; Dashan Wang\*; Alan D Ziegler; Xiaoping Liu; Hui Zeng; Zhibo Xu; <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac59a6/meta)
+
+2. Effectiveness of protected areas in preventing forest loss in a tropical mountain region  
+*Yang Liu; Alan D Ziegler; Jie Wu; Shijing Liang; Dashan Wang; Rongrong Xu; Decha Duangnamon; Hailong Li; <b>Zhenzhong Zeng\*</b>.*  
+[Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X22001686)
+
+3. Doubling of annual forest carbon loss over the tropics during the early twenty-first century  
+*Yu Feng; <b>Zhenzhong Zeng\*</b>; Timothy D. Searchinger; Alan D. Ziegler; Jie Wu; Dashan Wang; Xinyue He; Paul R. Elsen; Philippe Ciais; Rongrong Xu; Zhilin Guo; Liqing Peng; Yiheng Tao; Dominick V. Spracklen; Joseph Holden; Xiaoping Liu; Yi Zheng; Peng Xu; Ji Chen\*; Xin Jiang; Xiao-Peng Song; Venkataraman Lakshmi; Eric F. Wood and Chunmiao Zheng\*.*  
+[ nature sustainability](https://www.nature.com/articles/s41893-022-00854-3)
+
+4. Decreasing relative humidity dominates a reversal of decreasing pan evaporation in mainland China after 1989  
+*Yubin Jin; Dashan Wang\*; Yu Feng; Jie Wu; Wenhui Cui; Xinyue He; Aifang Chen; <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Hydrology](https://www.sciencedirect.com/science/article/abs/pii/S0022169422002165)
+
+5. Hydrological feedback from projected Earth greening in the 21st century  
+*Jie Wu; Dashan Wang; Laurent Z.X. Li; <b>Zhenzhong Zeng\*</b>.*  
+ [Sustainable Horizons](https://www.sciencedirect.com/science/article/pii/S2772737822000025)
+
+6. Automatic alpine treeline extraction using high-resolution forest cover  
+*Xin Jiang; Xinyue He; Dashan Wang; Junyu Zou; <b>Zhenzhong Zeng\*</b>.*    
+[National Remote Sensing Bulletin](http://www.ygxb.ac.cn/thesisDetails#10.11834/jrs.20221370&lang=zh)
+
 ### 2021
 
 1. Weaknesses in dust emission modelling hidden by tuning to dust in the atmosphere  
@@ -23,59 +49,59 @@ permalink: /publications/
 *Dashan Wang; Jie Wu; Maoyi Huang; Laurent ZX Li; Dagang Wang; Ting Lin; Li Dong; Qi Li; Long Yang; <b>Zhenzhong Zeng\*</b>.*  
 [Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035133)
 
-2. A continuous decline of global seasonal wind speed range over land since 1980  
+4. A continuous decline of global seasonal wind speed range over land since 1980  
 *Lihong Zhou; <b>Zhenzhong Zeng\*</b>; Cesar Azorin-Molina; Yi Liu; Jie Wu; Dashan Wang; Dan Li; Alan D Ziegler; Li Dong.*  
 [Journal of Climate](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0112.1/JCLI-D-21-0112.1.xml)
 
-3. Effects of design parameters, microbial community and nitrogen removal on the field-scale multi-pond constructed wetlands  
+5. Effects of design parameters, microbial community and nitrogen removal on the field-scale multi-pond constructed wetlands  
 *Dan Li; Zhaosheng Chu \*; <b>Zhenzhong Zeng</b>; Matthew Sima; Minsheng Huang; Binghui Zheng.*  
  [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0052.1/JHM-D-20-0052.1.xml)
 
-4. Global Reach-level 3-hourly River Flood Reanalysis (1980-2019)  
+6. Global Reach-level 3-hourly River Flood Reanalysis (1980-2019)  
 *Yuan Yang; Ming Pan\*; Peirong Lin; Hylke E. Beck; <b>Zhenzhong Zeng</b>; Dai Yamazaki.*    
 [Bulletin of the American Meteorological Society](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0057.1/BAMS-D-20-0057.1.xml)  
 
-5. Upward expansion and acceleration of forest clearance in the mountains of Southeast Asia  
+7. Upward expansion and acceleration of forest clearance in the mountains of Southeast Asia  
 *Yu Feng; Alan D. Ziegler; Paul R. Elsen; Yang Liu; Xinyue He; Dominick V. Spracklen; Joseph Holden; Xin Jiang; Chunmiao Zheng  and <b>Zhenzhong Zeng\*</b>.*  
 [Nature Sustainability](https://www.nature.com/articles/s41893-021-00738-y)  
 
-6. Rapid and large-scale mapping of flood inundation via integrating spaceborne synthetic aperture radar imagery with unsupervised deep learning  
+8. Rapid and large-scale mapping of flood inundation via integrating spaceborne synthetic aperture radar imagery with unsupervised deep learning  
 *Xin Jiang; Shijing Liang; Xinyue He; Alan D. Ziegler; Peirong Lin; Ming Pan; Dashan Wang; Junyu Zou; Dalei Hao; Ganquan Mao; Yelu Zeng; Jie Yin; Lian Feng; Chiyuan Miao; Eric F. Wood; <b>Zhenzhong Zeng\*</b>.*  
 [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0924271621001520?via%3Dihub)
 
-7. Role of Groundwater in Sustaining Northern Himalayan Rivers  
+9. Role of Groundwater in Sustaining Northern Himalayan Rivers  
 *Yingying Yao; Chunmiao Zheng\*; Charles B. Andrews; Bridget R. Scanlon; Xingxing Kuang; <b>Zhenzhong Zeng</b>; Su-Jong Jeong; Michele Lancia; Yiping Wu; and Guoshuai Li.*  
 [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092354)  
 
-8. Aerosol presence reduces diurnal temperature change: An interval when the COVID-19 pandemic reduced aerosols revealed the climate effect  
+10. Aerosol presence reduces diurnal temperature change: An interval when the COVID-19 pandemic reduced aerosols revealed the climate effect  
 *Shijie Hu; Dashan Wang; Jie Wu; Lihong Zhou; Xu Feng; Tzung-May Fu; Xin Yang; Alan D; Ziegler and <b>Zhenzhong Zeng*</b>.*  
 [Environmental Science: Atmospheres](https://pubs.rsc.org/en/content/articlehtml/2021/ea/d1ea00021g)  
 
-9. Recent leveling off of vegetation greenness and primary production reveals the increasing soil water limitations on the greening Earth  
+11. Recent leveling off of vegetation greenness and primary production reveals the increasing soil water limitations on the greening Earth  
 *Xiaoming Feng; Bojie Fu\*; Yuan Zhang; Naiqing Pan; <b>Zhenzhong Zeng</b>; Hanqin Tian; Yihe Lyu; Yongzhe Chen; Philippe Ciais; Yingping Wang; Lu Zhang; Lei Cheng; Fernando T. Maestre; Marcos Fernández-Martínez; Jordi Sardans; Josep Peñuelas. *  
 [Science Bulletin](https://linkinghub.elsevier.com/retrieve/pii/S209592732100164X)  
 
-10. Two-Tier Synergic Governance of Greenhouse Gas Emissions and Air Pollution in China’s Megacity, Shenzhen: Impact Evaluation and Policy Implication  
+12. Two-Tier Synergic Governance of Greenhouse Gas Emissions and Air Pollution in China’s Megacity, Shenzhen: Impact Evaluation and Policy Implication  
 *Jingjing Jiang; Bin Ye\*; Shuai Shao; Nan Zhou; Dashan Wang; <b>Zhenzhong Zeng</b>; Junguo Liu.*  
  [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c06952)
 
-11. Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer  
+13. Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer  
 *Yumin Li; Tzung-May Fu\*; Jianyu Zhen\*; Xu Feng; Lijuan Zhang; Jing Chen; Suresh Kumar Reddy Boreddy; Kimitaka Kawamura; Pingqing Fu; Xin Yang; Lei Zhu,<b>Zhenzhong Zeng</b>.*  
 [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c07313)
 
-12. Intercomparison of ten ISI-MIP models in simulating discharges along the Lancang-Mekong River basin  
+14. Intercomparison of ten ISI-MIP models in simulating discharges along the Lancang-Mekong River basin  
 *He Chen; Junguo Liu\*; Ganquan Mao; Zifeng Wang; <b>Zhenzhong Zeng</b>; Aifang Chen; Kai Wang; Deliang Chen.*  
 [The Science of the total environment](https://www.sciencedirect.com/science/article/abs/pii/S0048969720380256?via%3Dihub)  
 
-13.  Reducing solar radiation forcing uncertainty and its impact on surface energy and water fluxes  
+15.  Reducing solar radiation forcing uncertainty and its impact on surface energy and water fluxes  
 *Liqing Peng ; Zhongwang Wei ; <b>Zhenzhong Zeng</b>; Peirong Lin; Eric F Wood; Justin Sheffield.*  
 [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/4/JHM-D-20-0052.1.xml)  
 
-14. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
+16. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
 *Dashan Wang; Xianwei Wang; Lin Liu; Dagang Wang; <b>Zhenzhong Zeng\*</b>.*    
 [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0063.1.xml)  
 
-15. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
+17. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
 *Wenxin Fan; Yi Liu; Adrian Chappell; Li Dong; Rongrong Xu; Marie Ekstrom; TZung-May Fu; <b>Zhenzhong Zeng\*</b>.*  
 [Journal of Applied Meteorology and Climatology](https://journals.ametsoc.org/view/journals/apme/60/1/jamc-d-20-0037.1.xml)  
 
