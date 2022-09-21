@@ -18,6 +18,15 @@
   education2: PhD Sun Yat-sen University
   education3: Postdoc Southern University of Science and Technology(started Jan 2020)
 
+- name: Yadong Guo（郭亚东）
+  photo: guoyadong.jpg
+  info: Visiting scholar, started Aug 2022
+  email: 3972319@qq.com
+  number_educ: 3
+  education1: B.S. Hunan Normal University
+  education2: MA.Sc Zhejiang University
+  education3: PhD Central South University
+
 - name: Rongrong Xu（徐荣嵘）
   photo: rongrong_touxiang.jpg
   info: Postdoc, started Apr 2020
@@ -63,10 +72,10 @@
   info: Phd Student, started Sep 2021
   email: jiangxiaobaix@outlook.com
 
-- name: Lihong Zhou（周俐宏）
-  photo: lihong.jpg
-  info: Master Student, started Sep 2019
-  email: 11930298@mail.sustech.edu.cn
+- name: Jiayu Xu（徐嘉玉）
+  photo: xujiayu.jpg
+  info: Phd Student, started Sep 2022
+  email: 12231090@mail.sustech.edu.cn
 
 - name: Shijing Liang（梁时婧）
   photo: liangshijing1.jpg
@@ -78,20 +87,41 @@
   info: Master Student, started Sep 2021
   email: 12132204@mail.sustech.edu.cn
 
+- name: Xiaowen Huang（黄筱雯）
+  photo: huangxiaowen.jpg
+  info: Master Student, started Sep 2022
+  email: 12232269@mail.sustech.edu.cn
+
+- name: Lili Liang（梁莉莉）
+  photo: lianglili.jpg
+  info: Master Student, started Sep 2022
+  email: 12232258@mail.sustech.edu.cn
+
+- name: Sihuan Wei（魏思焕）
+  photo: weisihuan.jpg
+  info: Master Student, started Sep 2022
+  email: 12232264@mail.sustech.edu.cn
+
+
 - name: Binbin Zeng（曾斌斌）
   photo: binbin_touxiang.jpg
   info: Secretary, started Sep 2019
   email: zengbb@mail.sustech.edu.cn
 
+- name: Lihong Zhou（周俐宏）
+  photo: lihong.jpg
+  info: Research Assistant, started Aug 2022
+  email: zhoulh3@mail.sustech.edu.cn
+
+- name: Yingzuo Qing（覃颖祚）
+  photo: qinyingzuo.jpg
+  info: Research Assistant, started Aug 2022
+  email: qinyz@mail.sustech.edu.cn
+
 - name: Yi Liu（刘怡）
   photo: liuyi.jpg
   info: Undergraduate, started Sep 2018
   email: 11810634@mail.sustech.edu.cn
-
-- name: Xiaowen Huang（黄筱雯）
-  photo: huangxiaowen.jpg
-  info: Undergraduate, started Sep 2018
-  email: 11810536@mail.sustech.edu.cn
 
 - name: Yanan Zhao（赵雅楠）
   photo: zhaoyanan.jpg
@@ -102,11 +132,6 @@
   photo: yangxinrong.jpg
   info: Undergraduate, started Jun 2021
   email: 12012538@mail.sustech.edu.cn
-
-- name: Jiayu Xu（徐嘉玉）
-  photo: xujiayu.jpg
-  info: Undergraduate, started Sep 2021
-  email: 11810337@mail.sustech.edu.cn
 
 - name: "This could be you !"
   photo: rock.jpg
