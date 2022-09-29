@@ -68,3 +68,13 @@
     url: https://github.com/XiaoBai0417/Multi-greenhouse-gas-assessments
     display: Downdload
   highlight: 2
+
+
+- title: "GGWS- PCNN (global gridded monthly wind speed dataset by the partial convolutional neural network)"
+  image: Zhoulh GGWS.png
+  description:  GGWS- PCNN is a global wind speed dataset develop by the partial convolutional neural network, assimilating wind pattern from the HadISD dataset and 34 climate models. The latest version spans from 1973/01 to 2021/12.
+  link: 
+    url: https://github.com/HeverLaw/PCNN-for-wind-reconstruction
+    display: Downdload codes
+  news2: <a href="https://zenodo.org/record/6544884#.YzQGETRBxPY" target="_blank">Downdload datasets-1 </a><br/><a href="https://zenodo.org/record/6544884#.YzQHKjRBxPY" target="_blank">Downdload datasets-2   </a>
+  highlight: 2
