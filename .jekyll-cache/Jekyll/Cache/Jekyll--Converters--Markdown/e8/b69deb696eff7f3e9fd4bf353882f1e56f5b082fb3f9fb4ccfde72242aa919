@@ -1,0 +1,51 @@
+I"�<h1 id="resources">Resources</h1>
+
+<h2 id="dataset">Dataset</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Global evapotranspiration (ET) through coupling a water balance (WB) model with a machine-learning algorithm (the model tree ensemble, MTE) </pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/evaporation.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>A satellite-based water balance method is developed to model global evapotranspiration (ET) through coupling a water balance (WB) model with a machine-learning algorithm (the model tree ensemble, MTE) (hereafter WB-MTE). The WB-MTE algorithm was firstly trained by combining monthly WB-estimated basin ET with the potential drivers (e.g., radiation, temperature, precipitation, wind speed, and vegetation index) across 95 large river basins (5824 basin-months) and then applied to establish global monthly ET maps at a spatial resolution of 0.5° from 1982 to 2009.</p>
+      <p><em></em></p>
+      <p><strong><a href="https://1drv.ms/u/s!AiRN_e2BaFsYhG_qt8e5R44b0dFy?e=j4knQR">Download</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> 如果您是中国大陆用户，可通过<a href="https://pan.baidu.com/s/1hBVOcq5dlaCJ3w__VC87zQ" target="_blank">百度网盘</a>下载，提取码：w3sh</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Multi-greenhouse gas assessments show near surface water table provides maximal wetland climate change mitigation</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/wetland_emissions.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Carbon and nitrogen losses from degraded wetlands, and methane emissions from high-water level wetlands, are both significant sources of greenhouse gas (GHG) emissions. Net wetland GHG exchange and its dependency on wetness across temperature regimes, however, remain poorly understood. From a newly constructed global-scale, in-situ database of GHGs (including CO2, CH4 and N2O) net exchanges, we show diverse hydrology-influenced emission patterns in CO2, CH4 and N2O across thermal regimes, and the net exchange rate of total GHGs shows a parabolic relationship with wetland water table.</p>
+      <p><em></em></p>
+      <p><strong><a href="https://github.com/XiaoBai0417/Multi-greenhouse-gas-assessments">Downdload</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>GGWS- PCNN (global gridded monthly wind speed dataset by the partial convolutional neural network)</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Zhoulh GGWS.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>GGWS- PCNN is a global wind speed dataset develop by the partial convolutional neural network, assimilating wind pattern from the HadISD dataset and 34 climate models. The latest version spans from 1973/01 to 2021/12.</p>
+      <p><em></em></p>
+      <p><strong><a href="https://github.com/HeverLaw/PCNN-for-wind-reconstruction">Downdload codes</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> <a href="https://zenodo.org/record/6544884#.YzQGETRBxPY" target="_blank">Downdload datasets-1</a>/n<a href="https://zenodo.org/record/6544884#.YzQHKjRBxPY" target="_blank">Downdload datasets-2</a></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET
