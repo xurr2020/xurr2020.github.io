@@ -18,6 +18,17 @@
   education2: PhD Sun Yat-sen University
   education3: Postdoc Southern University of Science and Technology(started Jan 2020)
 
+- name: Rongrong Xu（徐荣嵘）
+  photo: rongrong_touxiang.jpg
+  info: Research Assistant Professor
+  email: xurr@sustech.edu.cn
+  number_educ: 4
+  education1: B.S. Lanzhou University
+  education2: M.S. Sun Hohai University
+  education3: PhD Nanjing Hydraulic Research Institute
+  education4: Postdoc Southern University of Science and Technology(started Jan 2020)
+
+
 - name: Yadong Guo（郭亚东）
   photo: guoyadong.jpg
   info: Visiting scholar, started Aug 2022
@@ -27,10 +38,6 @@
   education2: MA.Sc Zhejiang University
   education3: PhD Central South University
 
-- name: Rongrong Xu（徐荣嵘）
-  photo: rongrong_touxiang.jpg
-  info: Postdoc, started Apr 2020
-  email: xurr@sustech.edu.cn
 
 - name: Feng Yang（杨锋）
   photo: yangfeng.jpg
@@ -86,6 +93,11 @@
   photo: yubin.jpg
   info: Master Student, started Sep 2021
   email: 12132204@mail.sustech.edu.cn
+
+- name: Qiaomei Feng（冯巧梅）
+  photo: fengqiaomei.jpg
+  info: Master Student, started Sep 2021
+  email: 12132197@mail.sustech.edu.cn
 
 - name: Xiaowen Huang（黄筱雯）
   photo: huangxiaowen.jpg
