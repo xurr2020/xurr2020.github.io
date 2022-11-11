@@ -11,27 +11,99 @@ permalink: /publications/
 
 ### 2022
 
-1. Influence of urbanization on hourly extreme precipitation over China  
-*Xiaowen Huang; Dashan Wang\*; Alan D Ziegler; Xiaoping Liu; Hui Zeng; Zhibo Xu; <b>Zhenzhong Zeng\*</b>.*  
+1. Large‐scale reforestation can increase water yield and reduce drought risk for water‐insecure regions in the Asia‐Pacific  
+*1. Hoong Chen Teo; Srivatsan V Raghavan; Xiaogang He; <b>Zhenzhong Zeng</b>; Yanyan Cheng; Xiangzhong Luo; Alex M Lechner; Matthew J Ashfold; Aakash Lamba; Rachakonda Sreekar; Qiming Zheng; Anping Chen; Lian Pin Koh.*  
+[Global Change Biology](https://doi.org/10.1111/gcb.16404)
+
+2. Increases in China’s wind energy production from the recovery of wind speed since 2012  
+*Liu Yi; <b>Zhenzhong Zeng\*</b>; Rongrong Xu; Alan D Ziegler; Sonia Jerez; D Chen; Cesar Azorin-Molina; Lihong Zhou; Xinrong Yang; Haiwei Xu; Laurent Li; Li Dong; Feng Zhou; Renjing Cao; Junguo Liu; Bin Ye; Xingxing Kuang; Xin Yang.*  
 [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac59a6/meta)
 
-2. Effectiveness of protected areas in preventing forest loss in a tropical mountain region  
-*Yang Liu; Alan D Ziegler; Jie Wu; Shijing Liang; Dashan Wang; Rongrong Xu; Decha Duangnamon; Hailong Li; <b>Zhenzhong Zeng\*</b>.*  
-[Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X22001686)
+3. Modeling urban impact on Zhengzhou storm on July 20, 2021  
+*Xiaowen Huang; Dashan Wang*; Laurent ZX Li; Qi Li; <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Geophysical Research: Atmospheres](https://doi.org/10.1029/2022JD037387)
 
-3. Doubling of annual forest carbon loss over the tropics during the early twenty-first century  
-*Yu Feng; <b>Zhenzhong Zeng\*</b>; Timothy D. Searchinger; Alan D. Ziegler; Jie Wu; Dashan Wang; Xinyue He; Paul R. Elsen; Philippe Ciais; Rongrong Xu; Zhilin Guo; Liqing Peng; Yiheng Tao; Dominick V. Spracklen; Joseph Holden; Xiaoping Liu; Yi Zheng; Peng Xu; Ji Chen\*; Xin Jiang; Xiao-Peng Song; Venkataraman Lakshmi; Eric F. Wood and Chunmiao Zheng\*.*  
-[ nature sustainability](https://www.nature.com/articles/s41893-022-00854-3)
+4. An artificial intelligence reconstruction of global gridded surface winds  
+*Lihong Zhou; Haofeng Liu; Xin Jiang; Alan D Ziegler; Cesar Azorin-Molina; Jiang Liu; <b>Zhenzhong Zeng\*</b>.*  
+[Science Bulletin](https://www.sciencedirect.com/science/article/pii/S2095927322004340)
 
-4. Decreasing relative humidity dominates a reversal of decreasing pan evaporation in mainland China after 1989  
+5. Evaluation of ECOSTRESS evapotranspiration estimates over heterogeneous landscapes in the continental US  
+*Lili Liang; Yu Feng; Jie Wu; Xinyue He; Shijing Liang; Xin Jiang; Gabriel de Oliveira\*; Jianxiu Qiu\*; <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac59a6/meta)
+
+6. Influence of urbanization on hourly extreme precipitation over China  
+*Li Luyi; <b>Zhenzhong Zeng</b>; Zhang Guo; Duan Kai; Liu Bingjun; Cai Xitian\*.  
+[Remote Sensing](https://www.mdpi.com/2072-4292/14/17/4401)
+
+7. Stronger winds increase sand-dust storm risk in northern China  
+*Yi Liu; Rongrong Xu; Alan D Ziegler; <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Science: Atmospheres](https://pubs.rsc.org/en/content/articlelanding/2022/EA/D2EA00058J)
+
+8. Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific  
+*Teo Hoong Chen\*; Raghavan Srivatsan V; He Xiaogang; <b>Zhenzhong Zeng</b>; Cheng Yanyan; Luo Xiangzhong; Lechner Alex M; Ashfold Matthew J; Lamba Aakash; Sreekar Rachakonda; Zheng Qiming; Chen Anping; Koh Lian Pin.*  
+[Global Change Biology](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.16404)
+
+9. Submarine Groundwater Discharge in the Northern Bohai Sea, China: Implications for Coastal Carbon Budgets and Buffering Capacity  
+*Zhang Yan; Zou Changpei; Wang Zhaohui Aleck; Wang Xuejing; <b>Zhenzhong Zeng</b>; Xiao Kai*; Guo Huaming; Jiang Xiaowei; Li Zhenyang; Li Hailong\*.  
+[Journal of geophysical research-biogeosciences](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG006810)
+
+10. Madden–Julian Oscillation-induced extreme rainfalls constrained by global warming mitigation  
+*Shijing Liang; Dashan Wang\*; Alan D. Ziegler; Laurent Z. X. Li; <b>Zhenzhong Zeng\*</b>.*  
+[npj Climate and Atmospheric Science](https://www.nature.com/articles/s41612-022-00291-1)
+
+11. How does irrigation alter the water, carbon, and nitrogen budgets in a large endorheic river basin?  
+*Shuai Yang; Kewei Chen; Bowen Zhu; Yong Tian; <b>Zhenzhong Zeng</b>; Ming Liu; Chunmiao Zheng\*.  
+[Journal of Hydrology](https://www.sciencedirect.com/science/article/abs/pii/S0022169422008897)
+
+12. Rewetting global wetlands effectively reduces major greenhouse gas emissions  
+*Junyu Zou; Alan D. Ziegle; Deliang Chen; Gavin McNicol; Philippe Ciais; Xin Jiang; Chunmiao Zheng; Jie Wu; Jin Wu; Ziyu Lin; Xinyue H; Lee E. Brown; Joseph Holden; Zuotai Zhang; Sorain J. Ramchunde; Anping Chen; <b>Zhenzhong Zeng\*</b>.*  
+[Nature Geoscience](https://www.nature.com/articles/s41561-022-00989-0)
+
+13. High Mountain Asia hydropower systems threatened by climate-driven landscape instability  
+*Dongfeng Li\*; Xixi Lu; Desmond Walling; Ting Zhang; F Steiner; Robert J Wasson; Stephan Harrison; Santosh Nepal; Yong Nie; Walter W Immerzeel; Dan H Shugar; Michele Koppes; Stuart Lane; <b>Zhenzhong Zeng</b>; Xiaofei Sun; Alexandr Yegorov; Tobias Bolch.*  
+[Nature Geoscience](https://www.nature.com/articles/s41561-022-00953-y)
+
+14. Assessing evapotranspiration observed from ECOSTRESS using flux measurements in agroecosystems  
+*Jie Wu; Yu Feng; Lili Liang; Xinyue He; <b>Zhenzhong Zeng\*</b>.*  
+[Agricultural Water Management](https://www.sciencedirect.com/science/article/abs/pii/S0378377422002530)
+
+15. Reduction in reversal of global stilling arising from correction to encoding of calm periods  
+*Robert JH Dunn\*; Cesar Azorin-Molina; Matthew Menne; <b>Zhenzhong Zeng</b>; Nancy Casey; Cheng Shen.*  
+[Environmental Research Communications](https://iopscience.iop.org/article/10.1088/2515-7620/ac770a/meta)
+
+16. Decreasing relative humidity dominates a reversal of decreasing pan evaporation in mainland China after 1989  
 *Yubin Jin; Dashan Wang\*; Yu Feng; Jie Wu; Wenhui Cui; Xinyue He; Aifang Chen; <b>Zhenzhong Zeng\*</b>.*  
 [Journal of Hydrology](https://www.sciencedirect.com/science/article/abs/pii/S0022169422002165)
 
-5. Hydrological feedback from projected Earth greening in the 21st century  
-*Jie Wu; Dashan Wang; Laurent Z.X. Li; <b>Zhenzhong Zeng\*</b>.*  
- [Sustainable Horizons](https://www.sciencedirect.com/science/article/pii/S2772737822000025)
+17. Influence of urbanization on hourly extreme precipitation over China  
+*Xiaowen Huang; Dashan Wang\*; Alan D Ziegler; Xiaoping Liu; Hui Zeng; Zhibo Xu; <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac59a6/meta)
 
-6. Automatic alpine treeline extraction using high-resolution forest cover  
+18. Effectiveness of protected areas in preventing forest loss in a tropical mountain region  
+*Yang Liu; Alan D Ziegler; Jie Wu; Shijing Liang; Dashan Wang; Rongrong Xu; Decha Duangnamon; Hailong Li; <b>Zhenzhong Zeng</b>.*  
+[Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X22001686?via%3Dihub)
+
+19. Doubling of annual forest carbon loss over the tropics during the early twenty-first century  
+*Yu Feng; <b>Zhenzhong Zeng\*</b>; Timothy D. Searchinger; Alan D. Ziegler; Jie Wu; Dashan Wang; Xinyue He; Paul R. Elsen; Philippe Ciais; Rongrong Xu; Zhilin Guo; Liqing Peng; Yiheng Tao; Dominick V. Spracklen; Joseph Holden; Xiaoping Liu; Yi Zheng; Peng Xu; Ji Chen\*; Xin Jiang; Xiao-Peng Song; Venkataraman Lakshmi; Eric F. Wood and Chunmiao Zheng\*.*  
+[nature sustainability](https://www.nature.com/articles/s41893-022-00854-3)
+
+20. A moderate mitigation can significantly delay the emergence of compound hot extremes  
+*Feng Ma; Xing Yuan\**; Peili Wu; <b>Zhenzhong Zeng</b>.*  
+[Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035427)
+
+21. Hydrological feedback from projected Earth greening in the 21st century  
+*Jie Wu; Dashan Wang; Laurent Z.X. Li; <b>Zhenzhong Zeng\*</b>.*  
+[Sustainable Horizons](https://www.sciencedirect.com/science/article/pii/S2772737822000025)
+
+22. Absorption Enhancement of Black Carbon Aerosols Constrained by Mixing-State Heterogeneity 
+*Jinghao Zhai; Xin Yang\*; Ling Li; Bin Bai; Pengfei Liu; Yuanlong Huang;  Tzung-May Fu; Lei Zhu; <b>Zhenzhong Zeng</b>; Shu Tao; Xiaohui Lu; Xingnan Ye; Xiaofei Wang; Lin Wang; Jianmin Chen.*  
+[Environmental Science & Technology](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c06180)
+
+23. Decarbonising the iron and steel sector for a 2° C target using inherent waste streams  
+*Yongqi Sun; Sicong Tian; Philippe Ciais; <b>Zhenzhong Zeng\*</b>; Jing Meng\*; Zuotai Zhang\*.     
+[Nature communications](https://www.nature.com/articles/s41467-021-27770-y)
+
+24. Automatic alpine treeline extraction using high-resolution forest cover  
 *Xin Jiang; Xinyue He; Dashan Wang; Junyu Zou; <b>Zhenzhong Zeng\*</b>.*    
 [National Remote Sensing Bulletin](http://www.ygxb.ac.cn/thesisDetails#10.11834/jrs.20221370&lang=zh)
 
@@ -97,11 +169,15 @@ permalink: /publications/
 *Liqing Peng ; Zhongwang Wei ; <b>Zhenzhong Zeng</b>; Peirong Lin; Eric F Wood; Justin Sheffield.*  
 [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/4/JHM-D-20-0052.1.xml)  
 
-16. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
+16. Simulated response of warming to Southeast Asian deforestation: Insights from WRF simulations using three land surface models  
+*Dashan Wang; Jie Wu; Xin Jiang; Shijing Liang; <b>Zhenzhong Zeng\*</b>.*    
+[Transactions of Atmospheric Sciences](http://dqkxxb.cnjournals.org/dqkxxb/article/abstract/20200604?st=search)  
+
+17. Urban signatures in the spatial clustering of precipitation extremes over mainland China  
 *Dashan Wang; Xianwei Wang; Lin Liu; Dagang Wang; <b>Zhenzhong Zeng\*</b>.*    
 [Journal of Hydrometeorology](https://journals.ametsoc.org/view/journals/hydr/22/3/JHM-D-20-0063.1.xml)  
 
-17. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
+18. Evaluation of global reanalysis land surface wind speed trends to support wind energy development using in situ observations  
 *Wenxin Fan; Yi Liu; Adrian Chappell; Li Dong; Rongrong Xu; Marie Ekstrom; TZung-May Fu; <b>Zhenzhong Zeng\*</b>.*  
 [Journal of Applied Meteorology and Climatology](https://journals.ametsoc.org/view/journals/apme/60/1/jamc-d-20-0037.1.xml)  
 
