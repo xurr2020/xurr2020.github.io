@@ -15,7 +15,7 @@ permalink: /
 
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group4.jpg" style="width: 650px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group5.jpg" style="width: 650px">
 </figure>
 
  &ensp;&ensp;&ensp;&ensp;**We are  looking for passionate new Postdocs, PhD students, Master students, and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
