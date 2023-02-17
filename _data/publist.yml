@@ -78,3 +78,11 @@
     display: Downdload codes
   news2: <a href="https://zenodo.org/record/6544884#.YzQGETRBxPY" target="_blank">Downdload datasets-1 </a><br/><a href="https://zenodo.org/record/6544884#.YzQHKjRBxPY" target="_blank">Downdload datasets-2   </a>
   highlight: 2
+
+- title: "Energy production and water savings from floating solar photovoltaics on global reservoirs"
+  image: Fig1.png
+  description:  The methods for "Energy production and water savings from floating solar photovoltaics on global reservoirs". We take advantage of recent advances in the compilation of data on existing reservoirs worldwide and a reliable climate-driven PV system performance model to assess with fine precision the potential for FPV on a global scale under realist climate conditions, both as a source of electricity and as a means of conserving water.
+  link: 
+    url: https://github.com/YubinJin98/Floating-solar-power
+    display: Downdload codes
+  highlight: 2
