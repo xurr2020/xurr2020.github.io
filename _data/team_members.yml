@@ -75,7 +75,11 @@
   email: jiangxiaobaix@outlook.com
 
 - name: Baoni Li（李保坭）
+<<<<<<< Updated upstream
   photo: baoni.jpg
+=======
+  photo: baoni li.jpg
+>>>>>>> Stashed changes
   info: Phd Student, started Sep 2021
   email: 12131073@mail.sustech.edu.cn
 
