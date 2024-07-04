@@ -9,11 +9,182 @@ permalink: /publications/
 
 # Publications
 
+### 2024
+
+1. Extreme climate sparks record boreal wildfires and carbon surge in 2023  
+*Lili Liang; Shijing Liang & <b>Zhenzhong Zeng\*</b>.*  
+[The Innovation](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00069-9)
+
+2. A national-scale assessment of land subsidence in China’s major cities  
+*Zurui Ao; Xiaomei Hu; Shengli Tao\*; Xie Hu; Guoquan Wang; Mingjia Li; Fang Wang; Litang Hu; Xiuyu Liang; Jingfeng Xiao; Asadilla Yusup; Wenhua Qi; Qinwei Ran; Jiayi Fang; Jinfeng Chang; <b>Zhenzhong Zeng</b>; Yongshuo Fu; Baolin Xue; Ping Wang; Kefei Zhao; Le Li; Wenkai Li; Yumei Li; Mi Jiang; Yuanhe Yang; Haihua Shen; Xia Zhao; Yue Shi; Bo Wu; Zhengbing Yan; Mengjia Wang; Yanjun Su; Tianyu Hu; Qin Ma; Hao Bai; Lijun Wang; Ziyan Yang; Yuhao Feng; Danhua Zhang; Erhan Huang; Jiamin Pan; Huiying Ye; Chen Yang; Yanwei Qin; Chenqi He; Yanpei Guo; Kai Cheng; Yu Ren; Haitao Yang; Chengyang Zheng; Jiangling Zhu; Shaopeng Wang; Chengjun Ji; Biao Zhu, Hongyan Liu, Zhiyao Tang, Zhiheng Wang, Shuqing Zhao, Yanhong Tang, Hanfa Xing, Qinghua Guo, Yu Liu & Jingyun Fang.*  
+[Science](https://www.science.org/doi/abs/10.1126/science.adl4366)
+
+3. Spatial-temporal patterns of land surface evapotranspiration from global products  
+*Ronglin Tang; Zhong Peng\*; Meng Liu; Zhao-Liang Li\*; Yazhen Jiang; Yongxin Hu; Lingxiao Huang; Yizhe Wang; Junrui Wang; Li Jia; Chaolei Zheng; Yongqiang Zhang; Ke Zhang; Yunjun Yao; Xuelong Chen; Yujiu Xiong; <b>Zhenzhong Zeng</b> & Joshua B Fisher.*  
+[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2024.114066)
+
+4. Dryland forestation: Uncovering the carbon sequestration potential  
+*Shijing Liang; Lili Liang; Dashan Wang\* & <b>Zhenzhong Zeng\*</b>.*  
+[The Innovation Geoscience](https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2024.100058)
+
+5. Earlier spring greening in Northern Hemisphere terrestrial biomes enhanced net ecosystem productivity in summer  
+*Yijia Ren; Jianxiu Qiu\*; <b>Zhenzhong Zeng</b>; Xiaoping Liu; Stephen Sitch; Kim Pilegaard; Tianyao Yang; Sheng Wang; Wenping Yuan & Atul K Jain.*  
+[Communications Earth & Environment](https://www.nature.com/articles/s43247-024-01270-5)
+
+6. The changing nature of groundwater in the global water cycle  
+*Xingxing Kuang; Junguo Liu\*; Bridget R Scanlon; Jiu Jimmy Jiao; Scott Jasechko; Michele Lancia; Boris K Biskaborn, Yoshihide Wada, Hailong Li; <b>Zhenzhong Zeng</b>; Zhilin Guo; Yingying Yao; Tom Gleeson; Jean-Philippe Nicot; Xin Luo; Yiguang Zou & Chunmiao Zheng\*.*  
+[Science](https://www.science.org/doi/abs/10.1126/science.adf0630)
+
+7. Urgent need to improve modelled sensitivity of evaporation to vegetation change  
+*Dashan Wang & <b>Zhenzhong Zeng\*</b>.*  
+[Nature Water](https://doi.org/10.1038/s44221-024-00203-y)
+
+8. Spatiotemporal variation of power law exponent on the use of wind energy  
+*Xinrong Yang; Xin Jiang; Shijing Liang; Yingzuo Qin; Fan Ye; Bin Ye; Jiayu Xu; Xinyue He; Jie Wu; Tianyun Dong; Xitian Cai; Rongrong Xu\* & <b>Zhenzhong Zeng\*</b>.*  
+[Applied Energy](https://doi.org/10.1016/j.apenergy.2023.122441)
+
+9. Fertilizer management for global ammonia emission reduction  
+*Peng Xu; Geng Li; Yi Zheng\*; Jimmy CH Fung\*; Anping Chen; <b>Zhenzhong Zeng</b>; Huizhong Shen; Min Hu; Jiafu Mao; Yan Zheng; Xiaoqing Cui; Zhilin Guo; Yilin Chen; Lian Feng; Shaokun He; Xuguo Zhang; Alexis KH Lau; Shu Tao & Benjamin Z Houlton.*  
+[Nature](https://www.nature.com/articles/s41586-024-07020-z)
+
+10. Geographically constrained resource potential of integrating floating photovoltaics in global existing offshore wind farms  
+*Yubin Jin; <b>Zhenzhong Zeng\*</b>; Yuntian Chen\*; Rongrong Xu; Alan D Ziegler; Wenchuang Chen; Bin Ye & Dongxiao Zhang\*.*  
+[Advances in Applied Energy](https://doi.org/10.1016/j.adapen.2024.100163)
+
+11. Changing footprint of the Pacific Decadal Oscillation on global land surface air temperature  
+*Lili Liang; Alan D Ziegler; Deliang Chen; Philippe Ciais; Laurent ZX Li; Shijing Liang; Dashan Wang; Rongrong Xu & <b>Zhenzhong Zeng\*</b>.*  
+[Science Bulletin](https://doi.org/10.1016/j.scib.2023.12.004)
+
+12. Earth greening mitigates hot temperature extremes despite the effect being dampened by rising CO2  
+*Jie Wu; Yu Feng; Laurent ZX Li; Philippe Ciais; Shilong Piao; Anping Chen & <b>Zhenzhong Zeng\*</b>.*  
+[One Earth](https://doi.org/10.1016/j.oneear.2023.12.003)
+
+13. Efficient and stable CO2 capture using a scalable and spontaneous cross-linking amine-functionalized nano-Al 2 O3 adsorbent  
+*Xuehua Shen; Feng Yan, <b>Zhenzhong Zeng\*</b>; Pengju Wang; Feng Xie; Xin Sun; Heijing Chen & Zuotai Zhang\*.*  
+[Journal of Materials Chemistry](https://doi.org/10.1039/D3TA06456E)
+
+14. A meta-analysis highlights globally widespread potassium limitation in terrestrial ecosystems  
+*Baozhang Chen; Jingchun Fang\*; Shilong Piao; Philippe Ciais; Thomas Andrew Black; Fei Wang; Shuli Niu; <b>Zhenzhong Zeng</b> & Yiqi Luo.*  
+[New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19294)
+
 ### 2023
 
-1. A global-scale framework for hydropower development incorporating strict environmental constraints  
-*Rongrong Xu; <b>Zhenzhong Zeng\*</b>; Ming Pan; Alan D. Ziegler; Joseph Holden; Dominick V. Spracklen; Lee E. Brown; Xinyue He; Deliang Chen; Bin Ye; Haiwei Xu; Sonia Jerez; Chunmiao Zheng; Junguo Liu; Peirong Lin; Yuan Yang; Junyu Zou; Dashan Wang; Mingyi Gu; Zongliang Yang; Dongfeng Li; Junling Huang; Venkataraman Lakshmi & Eric. F. Wood*  
+1. Long-term gridded land evapotranspiration reconstruction using Deep Forest with high generalizability  
+*Qiaomei Feng; Junyong Shen; Feng Yang; Shijing Liang; Jiang Liu; Xingxing Kuang; Dashan Wang\* & <b>Zhenzhong Zeng\*</b>.*  
+[Scientific Data](https://doi.org/10.1038/s41597-023-02822-8)
+
+2. 风速加强可能是近年中国沙尘日数增加的主要因素  
+*江鑫; 冯巧梅; 周俐宏; 刘怡 & <b>曾振中\*</b>.*  
+[科学通报](https://doi.org/10.1360/TB-2023-0311)
+
+3. Reversal of the levee effect towards sustainable floodplain managemen  
+*Meng Ding; Peirong Lin\*; Shang Gao; Jida Wang; <b>Zhenzhong Zeng</b>; Kaihao Zheng; Xudong Zhou; Dai Yamazaki; Yige Gao & Yu Liu.*  
+[Nature Sustainability](https://www.nature.com/articles/s41893-023-01202-9)
+
+4. Global distribution and climatic controls of natural mountain treelines  
+*Xinyue He; Xin Jiang; Dominick V Spracklen; Joseph Holden; Eryuan Liang; Hongyan Liu; Chongyang Xu; Jianhui Du; Kai Zhu; Paul R Elsen & <b>Zhenzhong Zeng\*</b>.*  
+[Global Change Biology](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.16885)
+
+5. Lagged effect of the Pacific Decadal Oscillation on decadal variation in global land precipitation  
+*Lili Liang; Shijing Liang; L Li; Huiling Yuan & <b>Zhenzhong Zeng\*</b>.*  
+[The Innovation Geoscience](Https://doi.org/10.59717/j.xinn-geo.2023.100034)
+
+6. Higher burn severity stimulates postfire vegetation and carbon recovery in California  
+*Linghua Qiu; Linfeng Fan; Liqun Sun; <b>Zhenzhong Zeng</b>; Lian Feng; Chao Yue\* & Chunmiao Zheng\*.*  
+[Agricultural and Forest Meteorology](https://doi.org/10.1016/j.agrformet.2023.109750)
+
+7. High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections  
+*Hylke E Beck\*; Tim R McVicar; Noemi Vergopolan; Alexis Berg; Nicholas J Lutsko; Ambroise Dufour;  <b>Zhenzhong Zeng</b>; Xin Jiang; Albert IJM van Dijk & Diego G Miralles.*  
+[Scientific Data](https://doi.org/10.1038/s41597-023-02549-6)
+
+8. Low-carbon energy policies benefit climate change mitigation and air pollutant reduction in megacities: An empirical examination of Shenzhen, China  
+*Jingjing Jiang; Bin Ye\*; Zhuoluo Sun; <b>Zhenzhong Zeng</b> & Xin Yang.*  
+[Science of The Total Environment](https://www.sciencedirect.com/science/article/pii/S0048969723032679)
+
+9. Long-term gridded land evapotranspiration reconstruction using Deep Forest with high generalizability  
+*Adrian Chappell*; Nicholas P Webb; Mark Hennen; Charles Sutton Zender; Philippe Ciais; Kerstin Schepanski; Brandon L Edwards; Nancy P Ziegler; Yves Balkanski; Daniel Tong; John F Leys; Stephan Heidenreich; Robert Hynes; David Fuchs; <b>Zhenzhong Zeng</b>; Matthew C Baddock; Jeffrey A Lee & Tarek Kandakji.*  
+[Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038584)
+
+10. Research advances in mechanisms of climate change impacts on soil organic carbon dynamics  
+*Yadong Guo\*; <b>Zhenzhong Zeng\*</b>; Junjian Wang; Junyu Zou; Zhou Shi & Songchao Chen.*  
+[Environmental Research Letters](https://doi.org/10.1088/1748-9326/acfa12)
+
+11. Refined fine-scale mapping of tree cover using time series of Planet-NICFI and Sentinel-1 imagery for Southeast Asia (2016–2021)  
+*Yang Feng & <b>Zhenzhong Zeng\*</b>.*  
+[Earth System Science Data](https://doi.org/10.5194/essd-15-4011-2023)
+
+12. Global Climate [in “State of the Climate in 2022”] 
+*Robert JH Dunn; John B Miller; Kate M Willett; Nadine Gobron; Melanie Ades; Robert Adler; Mihai Alexe; Richard P Allan; John Anderson; Orlane Anneville; Yasuyuki Aono; Anthony Arguez; Carlo Arosio; John A Augustine; Cesar Azorin-Molina; Jonathan Barichivich; John E Barnes; Hylke E Beck; Nicolas Bellouin; Angela Benedetti; Kevin Blagrave; Stephen Blenkinsop; Olivier Bock; Xavier Bodin; Michael Bosilovich; Olivier Boucher; Dennis Buechler; Stefan A Buehler; Diego Campos; Laura Carrea; Kai-Lan Chang; Hanne H Christiansen; John R Christy; Eui-Seok Chung; Laura M Ciasto; Scott Clingan; Melanie Coldewey-Egbers; Owen R Cooper; Richard C Cornes; Curt Covey; Jean-François Créatux; Theresa Crimmins; Thomas Cropper; Molly Crotwell; Joshua Culpepper; Diego Cusicanqui; Sean M Davis; Richard AM de Jeu; Doug Degenstein; Reynald Delaloye; Martin T Dokulil; Markus G Donat; Wouter A Dorigo; Hilary A Dugan; Imke Durre; Geoff Dutton; Gregory Duveiller; Thomas W Estilow; Nicole Estrella; David Fereday; Vitali E Fioletov; Johannes Flemming; Michael J Foster; Bryan Franz; Stacey M Frith; Lucien Froidevaux; Martin Füllekrug; Judith Garforth; Jay Garg; Badin Gibbes; Steven Goodman; Atsushi Goto;  Alexander Gruber; Guojun Gu; Sebastian Hahn; Leopold Haimberger; Bradley D Hall; Ian Harris; Deborah L Hemming; Martin Hirschi; Shu-peng Ho; Robert Holzworth; Filip Hrbáček; Guojie Hu; Dale F Hurst; Antje Inness; Ketil Isaksen; Viju O John; Philip D Jones; Robert Junod; Andreas Kääb; Johannes W Kaiser; Viktor Kaufmann; Andreas Kellerer-Pirklbauer; Elizabeth C Kent; Richard Kidd; Zak Kipling; Akash Koppa; Benjamin M Kraemer; Natalya Kramarova; Andries Kruger; Sofia La Fuente; Alo Laas; Xin Lan; Timothy Lang; Kathleen O Lantz; David A Lavers; Thierry Leblanc; Eric M Leibensperger; Chris Lennard; Yakun Liu; Norman G Loeb; Diego Loyola; Stephen C Maberly; Remi Madelon; Florence Magnin; Shin-Ichiro Matsuzaki; Linda May; Michael Mayer; Matthew F McCabe; Tim R McVicar; Carl A Mears; Annette Menzel; Christopher J Merchant; Michael F Meyer; Diego G Miralles; Leander Moesinger; Ghislaine Monet; Stephan A Montzka; Colin Morice; Ivan Mrekaj; Jens Mühle; David Nance; Julien P Nicolas; Jeannette Noetzli; Ben Noll; John O’Keefe; Timothy J Osborn; Taejin Park; Mark Parrington; Cécile Pellet; Mauri S Pelto; Kyle Petersen; Coda Phillips; Don Pierson; Izidine Pinto; Stephen Po-Chedley; Paolo Pogliotti; Lorenzo Polvani; Wolfgang Preimesberger; Colin Price; Merja Pulkkanen; William J. Randel; Samuel Rémy; Lucrezia Ricciardulli; Andrew D. Richardson; David A. Robinsol Willy Rocha; Matthew Rodell; Nemesio Rodriguez-Fernandez; Karen H. Rosenlof; Alexei Rozanov; Jozef Rozkosny; Olga O. Rusanovskaya, This Rutishauser; C. T. Sabeerali; Ahira Sánchez-Lugo, Parnchai Sawaengphokhai; Verena Schenzinger Robert W. Schlegel; Martin Schmid; Udo Schneider; Fumi Sezaki; Sapna Sharma; Lei Shi; Svetlana V. Shimaraeva; Eugene A. Silow; Adrian J. Simmons; Sharon L. Smith; Brian J. Soden; Viktoria Sofieva; Tim H. Sparks; O.P. Sreejith; Paul W. Stackhouse Jr.; Ryan Stauffer; Wolfgang Steinbrecht; Andrea K. Steiner; Pietro Stradiotti; Dmitry A. Streletskiy; Divya E. Surendran; Stephen J. Thackeray; Emmanuel Thibert; Maxim A. Timofeyev; Kleareti Tourpali; Mari R. Tye; Ronald van der A; Robin van der Schalie; Gerard van der Schrier; Arnold J.H. van Vliet; Piet Verburg; Jean-Paul Vernier; Isaac J. Vimont; Katrina Virts; Sebastian Vivero; Holger Vömel; Russell S. Vose; Ray H.J. Wang; Xingue Wang; Taran Warnock; Mark Weber; David N. Wiese; Jeannette D. Wild; Earle Williams; Takmeng Wong; Richard lestyn Woolway; Xungang Yin; <b>Zhenzhong Zeng</b>; Lin Zhao; Xinjia Zhou; Jerry R. Ziemke; Markus Ziese; Ruxandra M. Zotta; Cheng-Zhi Zou; Jessica Allen; Amy V. Camper; Bridgette O. Haley; Gregory Hammer; S. Elizabeth Love-Brotak; Laura Ohlmann; Lukas Noguchi; Deborah B. Riddle & Sara W. Veasey.*  
+[Bulletin of the American Meteorological Society](https://doi.org/10.1175/BAMS-D-23-0090.1)
+
+13. Sub‐grid representation of vegetation cover in land surface schemes improves the modeling of how climate responds to deforestation  
+*Yingzuo Qin; Dashan Wang; Ye’er Cao; Xitian Cai; Shijing Liang; Hylke E Beck & <b>Zhenzhong Zeng\*</b>.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL104164)
+
+14. Improved fine-scale tropical forest cover mapping for Southeast Asia using Planet-NICFI and Sentinel-1 imagery  
+*Feng Yang; Xin Jiang; Alan D Ziegler; Lyndon D Estes; Jin Wu; Anping Chen; Philippe Ciais; Jie Wu & <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Remote Sensing](https://doi.org/10.34133/remotesensing.0064)
+
+15. Asymmetric influence of forest cover gain and loss on land surface temperature  
+*Yongxian Su; Chaoqun Zhang; Philippe Ciais; <b>Zhenzhong Zeng</b>; Alessandro Cescatti; Jiali Shang; Jing Ming Chen; Jane Liu; Ying-Ping Wang; Wenping Yuan; Shushi Peng; Xuhui Lee; Zaichun Zhu; Lei Fan; Xiaoping Liu; Liyang Liu; Raffaele Lafortezza; Yan Li; Jiashun Ren; Xueqin Yang & Xiuzhi Chen\*.*  
+[Nature Climate Change](https://www.nature.com/articles/s41558-023-01757-7)
+
+16. Multiple Seepage-Faces in Tidal Flat With Very Gentle Slopes  
+*Tianwei Wang; Kexin Zhang; Hailong Li\*; Yan Zheng; Manhua Luo; <b>Zhenzhong Zeng</b>; Shengchao Yu; Chengji Shen & Jiu JimmyJiao.*  
+[Geophysical Research Letters](https://doi.org/10.1029/2023GL104189)
+
+17. Satellites reveal Earth's seasonally shifting dust emission sources  
+*Adrian Chappell\*; Nicholas P Webb; Mark Hennen; Kerstin Schepanski; Philippe Ciais; Yves Balkanski; Charles S Zender; Ina Tegen; <b>Zhenzhong Zeng</b>; Daniel Tong; Barry Baker; Marie Ekström; Matthew Baddock; Frank D Eckardt; Tarek Kandakji; Jeffrey A Lee; Mohamad Nobakht; Johanna von Holdt & John F Leys.*  
+[Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2023.163452)
+
+18. Dense flux observations reveal the incapability of evapotranspiration products to capture the heterogeneity of evapotranspiration  
+*Jie Wu; Yu Feng\*; Chunmiao Zheng & <b>Zhenzhong Zeng\*</b>.*  
+[Journal of Hydrology](https://doi.org/10.1016/j.jhydrol.2023.129743)
+
+19. The responses of ecosystem water use efficiency to CO2; nitrogen deposition, and climatic drivers across China  
+*Xitian Cai\*; Luyi Li; Joshua B Fisher; <b>Zhenzhong Zeng</b>; Sha Zhou; Xuezhi Tan\*; Bingjun Liu & Xiaohong Chen.*  
+[Journal of Hydrology](https://www.sciencedirect.com/science/article/abs/pii/S0022169423006388)
+
+20. Energy production and water savings from floating solar photovoltaics on global reservoirs  
+*Yubin Jin; Shijie Hu; Alan D. Ziegler; Luke Gibson; J. Elliott Campbell; Rongrong Xu; Deliang Chen; Kai Zhu; Yan Zheng; Bin Ye; Fan Ye & <b>Zhenzhong Zeng\*</b>.*  
+[Nature Sustainability](https://doi.org/10.1038/s41893-023-01089-6)
+
+21. Increasing global terrestrial diurnal temperature range for 1980–2021  
+*Xiaowen Huang; Robert JH Dunn; Laurent ZX Li; Tim R McVicar; Cesar Azorin‐Molina & <b>Zhenzhong Zeng\*</b>.*  
+[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103503)
+
+22. Assessment of healthcare accessibility in Guangdong-Hong Kong-Macao Greater Bay Area  
+*Xin Jiang; Wencheng Wei; Lihua Zeng; Li Ma; Xiaoming Liu; Junyu Zou & <b>Zhenzhong Zeng\*</b>.*  
+[Sustainable Horizons](https://www.sciencedirect.com/science/article/pii/S2772737823000111)
+
+23. Anthropogenic activities dominated tropical forest carbon balance in two contrary ways over the Greater Mekong Subregion in the 21st century  
+*Baozhang Chen\*; Alphonse Kayiranga\*; Mengyu Ge\*; Philippe Ciais; Hufang Zhang; Andy Black; Xiangming Xiao; Wenping Yuan; <b>Zhenzhong Zeng</b>& Shilong Piao.*  
+[Global Change Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16688)
+
+24. What drives the change of capacity factor of wind turbine in the United States?  
+*Jiayu Xu; Junyu Zou; Alan D Ziegler; Jie Wu & <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/acce4f/meta)
+
+25. Soil moisture and atmospheric aridity impact spatio-temporal changes in evapotranspiration at a global scale  
+*Wenmin Zhang\*; Julian Koch; Fangli Wei; <b>Zhenzhong Zeng</b>; Zhongxiang Fang & Rasmus Fensholt.*  
+[Journal of Geophysical Research: Atmospheres](https://doi.org/10.1029/2022JD038046)
+
+26. Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China  
+*Yi Liu; Lihong Zhou; Yingzuo Qin; Cesar Azorin-Molina; Cheng Shen; Rongrong Xu\* & <b>Zhenzhong Zeng\*</b>.*  
+[Atmospheric Measurement Techniques](https://doi.org/10.5194/amt-17-1123-2024/)
+
+27. Global assessment of spatiotemporal changes of frequency of terrestrial wind speed  
+*Yanan Zhao; Shijing Liang; Yi Lui; Tim R McVica; Cesar Azorin-Molina; Lihong Zhou; Robert JH Dunn; Sonia Jerez; Yingzuo Qin; Xinrong Yang; Jiayu Xu & <b>Zhenzhong Zeng\*</b>.*  
+[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/acc9d5/meta)
+
+28. Accelerating global mountain forest loss threatens biodiversity hotspots  
+*Xinyue He; Alan D. Ziegler; Paul R. Elsen; Yu Feng; Jessica C. A. Baker; Shijing Liang; Joseph Holden; Dominick V. Spracklen & <b>Zhenzhong Zeng\*</b>.*  
+[One Earth](https://doi.org/10.1038/s41893-023-01089-6)
+
+29. A global-scale framework for hydropower development incorporating strict environmental constraints  
+*Rongrong Xu; <b>Zhenzhong Zeng\*</b>; Ming Pan; Alan D. Ziegler; Joseph Holden; Dominick V. Spracklen; Lee E. Brown; Xinyue He; Deliang Chen; Bin Ye; Haiwei Xu; Sonia Jerez; Chunmiao Zheng; Junguo Liu; Peirong Lin; Yuan Yang; Junyu Zou; Dashan Wang; Mingyi Gu; Zongliang Yang; Dongfeng Li; Junling Huang; Venkataraman Lakshmi & Eric. F. Wood.*  
 [Nature Water](https://doi.org/10.1038/s44221-022-00004-1)
+
 
 ### 2022
 
@@ -107,7 +278,7 @@ Li Luyi; <b>Zhenzhong Zeng</b>; Zhang Guo; Duan Kai; Liu Bingjun; Cai Xitian\*.
 
 24. Doubling of annual forest carbon loss over the tropics during the early twenty-first century  
 *Yu Feng; <b>Zhenzhong Zeng\*</b>; Timothy D. Searchinger; Alan D. Ziegler; Jie Wu; Dashan Wang; Xinyue He; Paul R. Elsen; Philippe Ciais; Rongrong Xu; Zhilin Guo; Liqing Peng; Yiheng Tao; Dominick V. Spracklen; Joseph Holden; Xiaoping Liu; Yi Zheng; Peng Xu; Ji Chen\*; Xin Jiang; Xiao-Peng Song; Venkataraman Lakshmi; Eric F. Wood and Chunmiao Zheng\*.*  
-[nature sustainability](https://www.nature.com/articles/s41893-022-00854-3)
+[Nature sustainability](https://www.nature.com/articles/s41893-022-00854-3)
 
 25. A moderate mitigation can significantly delay the emergence of compound hot extremes  
 *Feng Ma; Xing Yuan\**; Peili Wu; <b>Zhenzhong Zeng</b>.*  
