@@ -1,6 +1,6 @@
 ﻿- name: Zhenzhong Zeng（曾振中）
   photo: zeng_touxiang.png
-  info: Associate professor, started Sep 2019
+  info: Professor, started June 2024
   email: zengzz@sustech.edu.cn
   number_educ: 5
   education1: B.S. Sun Yat-sen University
@@ -28,31 +28,20 @@
   education3: PhD Nanjing Hydraulic Research Institute
   education4: Postdoc Southern University of Science and Technology(started Jan 2020)
 
-
-- name: Yadong Guo（郭亚东）
-  photo: guoyadong.jpg
-  info: Visiting scholar, started Aug 2022
-  email: 3972319@qq.com
-  number_educ: 3
-  education1: B.S. Hunan Normal University
-  education2: MA.Sc Zhejiang University
-  education3: PhD Central South University
-
-
-- name: Feng Yang（杨锋）
-  photo: yangfeng.jpg
-  info: Postdoc, started Aug 2021
-  email: yangf@sustech.edu.cn
-
 - name: Khan Muhammad Asif
   photo: asif.jpg
   info: Postdoc, started Jul 2022
   email: asif@sustech.edu.cn
 
-- name: He Chen（陈鹤）
-  photo: chenhe.jpg
-  info: Visiting Phd Student, started Sep 2018
-  email: 11849584@mail.sustech.edu.cn
+- name: Tianyun Dong（董天云）
+  photo: tianyun dong.jpg
+  info: Postdoc, started Aug 2023
+  email: 1418619971@qq.com
+
+- name: Shuxin Luo（罗舒心）
+  photo: shuxin luo.jpg
+  info: Postdoc, started Jan 2024
+  email: luosx@sustech.edu.cn
 
 - name: Xinyue He（何心悦）
   photo: xinyue_touxiang.jpg
@@ -75,11 +64,7 @@
   email: jiangxiaobaix@outlook.com
 
 - name: Baoni Li（李保坭）
-<<<<<<< Updated upstream
-  photo: baoni.jpg
-=======
   photo: baoni li.jpg
->>>>>>> Stashed changes
   info: Phd Student, started Sep 2021
   email: 12131073@mail.sustech.edu.cn
 
@@ -88,13 +73,18 @@
   info: Phd Student, started Sep 2022
   email: 12231090@mail.sustech.edu.cn
 
+- name: Yingzuo Qin（覃颖祚）
+  photo: yingzuo qin.jpg
+  info: Phd Student, started Aug 2023
+  email: qinyz2023@mail.sustech.edu.cn
+
 - name: Shijing Liang（梁时婧）
   photo: liangshijing1.jpg
   info: Master Student, started Sep 2021
   email: 111712638@mail.sustech.edu.cn
 
 - name: Yubin Jin（金宇斌）
-  photo: yubin.jpg
+  photo: yubin jin.jpg
   info: Master Student, started Sep 2021
   email: 12132204@mail.sustech.edu.cn
 
@@ -118,21 +108,20 @@
   info: Master Student, started Sep 2022
   email: 12232264@mail.sustech.edu.cn
 
+- name: Xiaoye Liu（刘小叶）
+  photo: xiaoye liu.jpg
+  info: Master Student, started Sep 2023
+  email: 12332278@mail.sustech.edu.com
+
+- name: Yuxin Liang（梁雨欣）
+  photo: yuxin.jpg
+  info: Master Student, started Sep 2023
+  email: liangyuxin4916@126.com
 
 - name: Binbin Zeng（曾斌斌）
   photo: binbin_touxiang.jpg
   info: Secretary, started Sep 2019
   email: zengbb@mail.sustech.edu.cn
-
-- name: Lihong Zhou（周俐宏）
-  photo: lihong.jpg
-  info: Research Assistant, started Aug 2022
-  email: zhoulh3@mail.sustech.edu.cn
-
-- name: Yingzuo Qin（覃颖祚）
-  photo: qinyingzuo.jpg
-  info: Research Assistant, started Aug 2022
-  email: qinyz@mail.sustech.edu.cn
 
 - name: Yanan Zhao（赵雅楠）
   photo: zhaoyanan.jpg
@@ -143,6 +132,21 @@
   photo: yangxinrong.jpg
   info: Undergraduate, started Jun 2021
   email: 12012538@mail.sustech.edu.cn
+
+- name: Yue Yan（严悦）
+  photo: yue yan.jpg
+  info: Undergraduate, started Jun 2023
+  email: 12211052@mail.sustech.edu.cn
+
+- name: Ziyue Lin（林子越）
+  photo: ziyue lin.jpg
+  info: Undergraduate, started Jun 2023
+  email: 12212657@sustech.edu.cn
+
+- name: Shuyu Zou（邹欣妤）
+  photo: xinyu zou.jpg
+  info: Undergraduate, started Jun 2023
+  email: 12313553@mail.sustech.edu.cn
 
 - name: "This could be you !"
   photo: rock.jpg
